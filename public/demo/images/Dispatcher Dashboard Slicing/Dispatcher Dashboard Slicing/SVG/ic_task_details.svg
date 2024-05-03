@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>ic_task_details</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_task_details">
+            <g id="Group-Copy-10">
+                <rect id="Rectangle" x="0" y="0" width="16" height="16"></rect>
+            </g>
+            <g id="Group" transform="translate(2.000000, 1.000000)" fill="#B2B2B2">
+                <path d="M11,2 C11.5522847,2 12,2.44771525 12,3 L12,13 C12,13.5522847 11.5522847,14 11,14 L1,14 C0.44771525,14 6.76353751e-17,13.5522847 0,13 L0,3 C-6.76353751e-17,2.44771525 0.44771525,2 1,2 L1.846,2 L1.84615385,3.76923077 C1.84615385,4.28206661 2.23219404,4.70473793 2.72953272,4.76250304 L2.84615385,4.76923077 L9.15384615,4.76923077 C9.7061309,4.76923077 10.1538462,4.32151552 10.1538462,3.76923077 L10.1538462,3.76923077 L10.153,2 L11,2 Z" id="Combined-Shape"></path>
+                <path d="M3.85740569,0 L8.1817359,0 C8.73402065,-1.01453063e-16 9.1817359,0.44771525 9.1817359,1 L9.1817359,3 C9.1817359,3.55228475 8.73402065,4 8.1817359,4 L3.85740569,4 C3.30512094,4 2.85740569,3.55228475 2.85740569,3 L2.85740569,1 C2.85740569,0.44771525 3.30512094,1.01453063e-16 3.85740569,0 Z" id="Rectangle"></path>
+            </g>
+        </g>
+    </g>
+</svg>

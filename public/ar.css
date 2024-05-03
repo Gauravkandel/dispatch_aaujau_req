@@ -1,0 +1,49 @@
+
+
+/* Arabic Css Start From Here */
+body[dir="rtl"] .logo-box {
+    float: right;
+}
+
+body[dir="rtl"] .float-right {
+    float: left !important;
+}
+
+body[dir="rtl"] .navbar-custom .topnav-menu > li {
+    float: right;
+}
+
+body[dir="rtl"] {
+    text-align: right;
+}
+
+body[dir="rtl"] .card-header >a:after {
+    right: auto;
+    left: 0;
+}
+
+.dshboard .content-page {
+    margin: 0 240px 0 0; 
+}
+
+body[data-sidebar-size=condensed] .content-page {
+    margin-left: 0 !important;
+    margin-right: 70px !important;
+}
+
+body[dir="rtl"] #sidebar-menu > ul > li > a svg, body[dir="rtl"] #sidebar-menu > ul > li > a i {
+    margin: 0 !important;
+}
+
+body[dir="rtl"] #sidebar-menu > ul > li > a > span{
+    margin-right: 5px;
+}
+
+
+body .content-page {
+    margin: 0 240px 0 0;
+}
+
+body[dir="rtl"] .text-right {
+    text-align: left !important;
+}

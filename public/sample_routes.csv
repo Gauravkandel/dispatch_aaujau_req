@@ -1,0 +1,2 @@
+Customer Name,Customer Email Address,Customer Country Code (eg. 91),Customer Mobile No,Pickup Complete Address,Pickup Flat/House No.,Pickup Postal Code,Drop off Complete Address,Drop off Flat/House No.,Drop off Postal Code,Task Description,Cash to be collected,Assign to Agent (Agent ID),Pickup Date(dd/mm/yyyy,Pickup Time(hh:mm)
+Test Customer,test@gmail.com,91,9999999999,915 sector 9 panchkula,915,232323,"cdcl, sector 28 B, chandigarh",122,1212,,,1,4/4/2022,13:30

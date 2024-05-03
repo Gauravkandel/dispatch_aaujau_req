@@ -1,0 +1,907 @@
+{
+"Dashboard": "Gösterge Paneli"
+,
+"User": "kullanıcı"
+,
+"My Account": "Hesabım"
+,
+"Logout": "Çıkış Yap"
+,
+"Admin Head": "Yönetici Başkanı"
+,
+"Home": "Ev",
+"Customers": "müşteriler"
+,
+"Routes": "Rotalar",
+"Settings": "Ayarlar",
+"Profile": "Profil",
+"Customize": "Özelleştirme"
+,
+"Teams": "Takımlar"
+,
+"Agent": "Ajan",
+"Geo Fence": "Coğrafi Çit"
+,
+"Auto Allocation": "Otomatik Tahsis",
+"Pricing Rules": "Fiyatlandırma Kuralları"
+,
+"Configure": "Yapılandır"
+,
+"Analytics": "Analitik",
+"Notifications": "Bildirimler",
+"Managers": "Yöneticiler"
+,
+"Search": "Arama",
+"Recipient's username": "alıcının kullanıcı adı"
+,
+"Add Route": "Rota Ekle",
+"Welcome": "Hoş geldin"
+,
+"Royo": "royo",
+"Powered by": "Tarafından desteklenmektedir"
+,
+"Dispatch. Fleet Management and Last Mile Delivery solution.": "Sevk. Filo Yönetimi ve Son Mil Teslimatı çözümü."
+,
+"Apps": "uygulamalar",
+"Open All": "Hepsini aç"
+,
+"Agents": "Temsilciler",
+"Online": "Çevrimiçi"
+,
+"success": "başarı"
+,
+"error": "hata",
+"Your Dispatcher verification code is": "Gönderici doğrulama kodunuz: "
+,
+"Your account not approved yet. Please contact administration": "Hesabınız henüz onaylanmadı. Lütfen yönetimle iletişime geçin"
+,
+"User not found": "Kullanıcı bulunamadı"
+,
+"Please enter a valid OTP": "Lütfen geçerli bir OTP girin"
+,
+"Your otp has been expired. Please try again.": "OTP'nizin süresi doldu. Lütfen tekrar deneyin."
+,
+"Successfully logged out": "Başarıyla çıkış yapıldı"
+,
+"Your account created successfully. Please login": "Hesabınız başarıyla oluşturuldu. Lütfen giriş yapın"
+,
+"Status updated Successfully": "Durum Başarıyla güncellendi"
+,
+"Profile Updated Successfully": "Profil Başarıyla Güncellendi"
+,
+"Sorry Something Went Wrong": "Üzgünüm Bir şeyler Yanlış gitti"
+,
+"Agent created Successfully!": "Temsilci Başarıyla oluşturuldu!"
+,
+"Documents Sent Successfully!": "Belgeler Başarıyla Gönderildi!"
+,
+"This order has already been accepted": "Bu sipariş zaten kabul edildi"
+,
+"Task Accepted Successfully": "Görev Başarıyla Kabul Edildi"
+,
+"Task Rejected Successfully": "Görev Başarıyla Reddedildi"
+,
+"Task Added Successfully": "Görev Başarıyla Eklendi"
+,
+"Valid Dispatcher API keys": "Geçerli Dispatcher API anahtarları"
+,
+"Feedback has been already submitted": "Geri bildirim zaten gönderildi"
+,
+"Your feedback is submitted": "Geri bildiriminiz gönderildi"
+,
+"Order Not Found": "Sipariş Bulunamadı"
+,
+"Offline": "Çevrimdışı"
+,
+"Tasks": "Görevler"
+,
+"Drivers": "Sürücüler"
+,
+"All Drivers": "Tüm Sürücüler"
+,
+"Optimize Route": "Rotayı Optimize Et"
+,
+"Driver starts Day at": "Sürücü güne başlar"
+,
+"Please enter the driver start time": "Lütfen sürücü başlangıç ​​saatini girin"
+,
+"Task Duration(in min)": "Görev Süresi(dak)"
+,
+"Please enter the task duration": "Lütfen görev süresini girin"
+,
+"Driver Break Start time": "Sürücü Mola Başlangıç ​​zamanı"
+,
+"Please enter the driver break start time": "Lütfen sürücü molası başlangıç ​​saatini girin"
+,
+"Driver Start Location": "Sürücü Başlangıç ​​Konumu"
+,
+"Select Location": "Konum Seçin"
+,
+"Current location": "Mevcut konum",
+"Select Task": "Görev Seç"
+,
+"Address": "Adres",
+"Submit": "Göndermek"
+,
+"Name": "İsim"
+,
+"Email": "E-posta",
+"Phone number": "Telefon numarası"
+,
+"Action": "Eylem",
+"Status": "Durum",
+"Add Customer": "Müşteri Ekle"
+,
+"Organization details": "Organizasyon detayları"
+,
+"View and edit your organization's profile details.": "Kuruluşunuzun profil ayrıntılarını görüntüleyin ve düzenleyin."
+,
+"Upload Logo": "Logo Yükle"
+,
+"Short Code": "Kısa kod"
+,
+"NAME": "İSİM"
+,
+"EMAIL": "E-POSTA",
+"Enter email address": "Email adresini gir",
+"CONTACT NUMBER": "İLETİŞİM NUMARASI"
+,
+"COMPANY ADDRESS": "ŞİRKET ADRESİ"
+,
+"COMPANY NAME": "FİRMA ADI"
+,
+"Enter company address": "Şirket adresini girin"
+,
+"Enter company name": "Şirket adını girin"
+,
+"COUNTRY": "ÜLKE"
+,
+"Country": "Ülke"
+,
+"TIMEZONE": "SAAT DİLİMİ"
+,
+"Timezone": "Saat dilimi",
+"Change Password": "Şifre değiştir"
+,
+"Old Password": "eski Şifre"
+,
+"Enter your old password": "Eski şifrenizi girin"
+,
+"New Password": "Yeni Şifre"
+,
+"Enter your password": "Şifrenizi girin"
+,
+"Confirm Password": "Şifreyi Onayla"
+,
+"Enter your confirm password": "Onay şifrenizi girin"
+,
+"Update": "Güncelleme"
+,
+"Theme": "Tema",
+"Choose between light and dark theme, for the platform.": "Platform için açık ve koyu tema arasında seçim yapın."
+,
+"Light theme": "hafif tema",
+"Dark theme": "Karanlık tema"
+,
+"Saved Address selection": "Kayıtlı Adres seçimi"
+,
+"Manage how you want to show saved addresses while creating routes.": "Rota oluştururken kayıtlı adresleri nasıl göstermek istediğinizi yönetin."
+,
+"Shared saved addresses for all customers": "Tüm müşteriler için paylaşılan kayıtlı adresler"
+,
+"Saved addresses linked to each customer": "Her müşteriye bağlı kayıtlı adresler"
+,
+"CMS": "İYS"
+,
+"View and update the Terms and Privacy content for the Agent App.": "Temsilci Uygulaması için Şartlar ve Gizlilik içeriğini görüntüleyin ve güncelleyin."
+,
+"Terms and Conditions": "Şartlar ve koşullar"
+,
+"Privacy Policy": "Gizlilik Politikası"
+,
+"Nomenclature & Localisation": "Adlandırma ve Yerelleştirme"
+,
+"View and update the naming, currency and distance units.": "Adlandırma, para birimi ve mesafe birimlerini görüntüleyin ve güncelleyin."
+,
+"AGENT NAME": "AJAN ADI",
+"CURRENCY": "PARA BİRİMİ"
+,
+"Driver": "sürücü"
+,
+"Unit": "Birim",
+"Metric": "Metrik",
+"Date & Time": "Tarih ve Saat",
+"View and update the date & time format.": "Tarih ve saat biçimini görüntüleyin ve güncelleyin."
+,
+"DATE FORMAT": "TARİH FORMATI"
+,
+"TIME FORMAT": "ZAMAN FORMATI",
+"hours": "saat",
+"Task Completion Proofs": "Görev Tamamlama Kanıtları"
+,
+"Type": "Tip",
+"Enable": "Olanak vermek",
+"Required": "Gerekli",
+"Notes": "Notlar",
+"Image": "resim",
+"Signature": "İmza"
+,
+"Barcode": "Barkod",
+"Team": "Takım"
+,
+"Add Team": "Takım Ekle"
+,
+"Team Name": "Takım adı"
+,
+"Location Accuracy": "Konum Doğruluğu"
+,
+"Location Frequency": "Konum Frekans",
+"Team Strength": "Takım Gücü"
+,
+"Tags": "Etiketler",
+"Edit Report": "Raporu Düzenle"
+,
+"Export Report": "İhracat raporu"
+,
+"Go": "Gitmek",
+"Clear": "Temizlemek",
+"Add": "Ekle",
+"Pay": "Ödemek"
+,
+"Receive": "Almak",
+"Uid": "kullanıcı kimliği"
+,
+"Phone": "Telefon",
+"Vehicle": "Araç"
+,
+"Cash Collected": "Toplanan Nakit",
+"Order Earning": "Sipariş Kazanç"
+,
+"Total Paid to Driver": "Sürücüye Ödenen Toplam"
+,
+"Total Receive from Driver": "Sürücüden Toplam Alma"
+,
+"Final Balance": "Nihai Bakiye",
+"Is Approved?": "Onaylandı?"
+,
+"Geo-fences": "Coğrafi çitler"
+,
+"Add Geo-fence": "Coğrafi çit ekle"
+,
+"Acknowledgement Type": "Teşekkür Türü"
+,
+"Agent can either acknowledge the receipt of the task or accept/decline a Task based on your selection below.": "Temsilci, aşağıdaki seçiminize göre görevin alındığını onaylayabilir veya bir Görevi kabul edebilir/reddetebilir."
+,
+"Acknowledge": "Kabullenmek",
+"Accept": "Kabul",
+"Reject": "Reddetmek",
+"None": "Hiçbiri"
+,
+"Enable this option to automatically assign Task to your agent.": "Temsilcinize otomatik olarak Görev atamak için bu seçeneği etkinleştirin."
+,
+"No. Of Retries": "Deneme Sayısı"
+,
+"Start Allocation Before": "Tahsisi Öncesinden Başlayın"
+,
+"In Min": "Dakikada",
+"Request Expires": "İsteğin Süresi Doluyor"
+,
+"In Sec": "Saniyede",
+"Maximum Task Per Person": "Kişi Başına Maksimum Görev"
+,
+"Maximum Radius": "Maksimum Yarıçap"
+,
+"Maximum Cash At Hand Per Person": "Kişi Başına Eldeki Maksimum Nakit"
+,
+"Select a method to allocate task": "Görev tahsis etmek için bir yöntem seçin"
+,
+"One By One": "birer birer",
+"Allocation will done one by one": "Tahsis tek tek yapılacak"
+,
+"Send to all": "Hepsine gönder"
+,
+"Allocation request will send to all": "Tahsis talebi herkese gönderilecek"
+,
+"Batch Wise": "Toplu Bilge",
+"Allocation request will done batch wise": "Tahsis talebi toplu olarak yapılır"
+,
+"Round Robin": "Yuvarlak Robin",
+"Allocation request will done in round robin format": "Tahsis talebi, yuvarlak robin formatında yapılacaktır."
+,
+"Start Radius": "Yarıçapı Başlat"
+,
+"Maximum Batch Size": "Maksimum Parti Boyutu",
+"Add Pricing Rules": "Fiyatlandırma Kuralları Ekle"
+,
+"Base Price": "Taban fiyat",
+"Base Duration": "Baz Süre"
+,
+"Base Distance": "Taban Mesafesi",
+"Base Waiting": "Baz Bekleme",
+"Map Configuration": "Harita Yapılandırması"
+,
+"View and update your Map type and it's API key.": "Harita türünüzü ve API anahtarını görüntüleyin ve güncelleyin."
+,
+"MAP TYPE": "HARİTA TÜRÜ"
+,
+"API Key": "API Anahtarı"
+,
+"SMS": "SMS",
+"View and update your SMS Gateway and it's API keys.": "SMS Ağ Geçidinizi ve API anahtarlarınızı görüntüleyin ve güncelleyin."
+,
+"CURRENT SELECTION": "ŞU ANKİ SEÇİM"
+,
+"Number": "Sayı"
+,
+"Account SID": "Hesap SID'si",
+"Account Sid": "Hesap Tarafı"
+,
+"Auth Token": "Yetkilendirme Simgesi",
+"View and update your SMTP credentials.": "SMTP kimlik bilgilerinizi görüntüleyin ve güncelleyin."
+,
+"Host": "Ev sahibi",
+"Port": "Liman",
+"Encryption": "şifreleme"
+,
+"User-Name": "Kullanıcı adı"
+,
+"Password": "Şifre"
+,
+"Form Address": "Form Adresi",
+"Personal Access Token": "Kişisel Erişim Simgesi"
+,
+"View and Generate API keys.": "API anahtarlarını görüntüleyin ve oluşturun."
+,
+"Generate Key": "Anahtar Oluştur"
+,
+"Custom Domain": "Özel alan"
+,
+"View and update your Domain.": "Etki Alanınızı görüntüleyin ve güncelleyin."
+,
+"Make sure you already pointed to IP": "Zaten IP'ye işaret ettiğinizden emin olun"
+,
+"from your domain": "alan adınızdan"
+,
+"View and update your Sub Domain.": "Alt Etki Alanınızı görüntüleyin ve güncelleyin."
+,
+"Sub Domain": "Alt Etki Alanı"
+,
+"FCM Server Key": "FCM Sunucu Anahtarı"
+,
+"View and Update FCM key": "FCM anahtarını görüntüleyin ve güncelleyin"
+,
+"FCM Key": "FCM Anahtarı"
+,
+"Choose Email paid plan to whitelable 'From email address' and 'Sender Name' in the Email sent out from your account.": "Hesabınızdan gönderilen E-postada 'E-posta adresinden' ve 'Gönderen Adı'nı beyaz olarak işaretlemek için Ücretli e-posta planını seçin."
+,
+"Select Plan": "Plan seç"
+,
+"Free": "Özgür"
+,
+"Paid": "Paralı"
+,
+"PREVIEW": "ÖN İZLEME"
+,
+"Your message here": "Mesajın Burada"
+,
+"Platform Earning": "Platform Kazancı"
+,
+"Agents's Earning": "Acentelerin Kazancı"
+,
+"Orders": "Emirler",
+"Today": "Bugün"
+,
+"Weekly": "Haftalık"
+,
+"Monthly": "Aylık"
+,
+"Cash at hand": "Eldeki nakit",
+"Phone Number": "Telefon numarası"
+,
+"Member Since": "Den beri üye"
+,
+"Total Spent": "Toplam harcama",
+"Total Orders": "Toplam Siparişler"
+,
+"Send SMS's and emails based on each trigger and customize the content by clicking on the edit icon.": "Her tetikleyiciye göre SMS ve e-posta gönderin ve düzenle simgesine tıklayarak içeriği özelleştirin."
+,
+"Customer": "Müşteri"
+,
+"Recipient": "alıcı"
+,
+"Events": "Olaylar",
+"Add Manager": "Yönetici Ekle"
+,
+"Pending Assignment": "Bekleyen Atama",
+"Active": "Aktif",
+"History": "Tarih",
+"Failed": "Arızalı"
+,
+"Assign": "Atamak",
+"Change Date": "Tarihi değiştir"
+,
+"Time": "Zaman",
+"Phone.No": "Telefon yok",
+"Due Time": "Son Zaman",
+"Tracking URL": "İzleme URL'si"
+,
+"Route Proofs": "Rota Kanıtları"
+,
+"Pricing": "fiyatlandırma"
+,
+"Track": "Izlemek",
+"Short Name": "Kısa adı"
+,
+"Post Code": "Posta Kodu",
+"Add More Address": "Daha Fazla Adres Ekle",
+"Edit Customer": "Müşteriyi Düzenle"
+,
+"Ok": "Tamam",
+"Tag": "Etiket",
+"Edit Team": "Takımı Düzenle"
+,
+"Profile Pic": "Profil fotoğrafı"
+,
+"TYPE": "TİP"
+,
+"Employee": "Çalışan"
+,
+"Freelancer": "Serbest çalışan"
+,
+"ASSIGN TEAM": "EKİP GÖREVİ"
+,
+"TRANSPORT ICON": "TAŞIMA TÜRÜ"
+,
+"TRANSPORT DETAILS": "ULAŞIM BİLGİLERİ"
+,
+"Year, Make, Model": "Yıl, Marka, Model"
+,
+"UID": "kullanıcı kimliği"
+,
+"LICENCE PLATE": "PLAKA",
+"COLOR": "RENK",
+"Color": "Renk",
+"Receive Money": "Para almak",
+"Select": "Seçme"
+,
+"Amount": "Tutar",
+"Back": "Geri",
+"Edit Mode": "Düzenleme modu"
+,
+"Add Geofence": "Coğrafi Sınır Ekle"
+,
+"Description (Optional)": "Açıklama (isteğe bağlı)"
+,
+"All": "Herşey"
+,
+"Select All": "Hepsini seç"
+,
+"Show All": "Hepsini Göster ↓"
+,
+"Cancel": "İptal"
+,
+"Save": "Kaydetmek",
+"Add Pricing Rule": "Fiyatlandırma Kuralı Ekle"
+,
+"Pricing Edit": "Fiyatlandırma Düzenle"
+,
+"Select Geo Fence": "Coğrafi Çit Seçin"
+,
+"Select Team": "Takım Seç"
+,
+"Select Team Tag": "Takım Etiketi Seç"
+,
+"Select Driver Tag": "Sürücü Etiketini Seçin"
+,
+"Duration Price(per minute)": "Süre Fiyat(dakika başına)"
+,
+"Waiting Price": "Bekleyen Fiyat",
+"Distance Fee": "Mesafe Ücreti"
+,
+"Cancel Fee": "İptal Ücreti"
+,
+"Employee Commission Percentage": "Çalışan Komisyonu Yüzdesi"
+,
+"Employee Commission Fixed": "Çalışan Komisyonu Sabit"
+,
+"Freelancer Commission Percentage": "Serbest Çalışan Komisyonu Yüzdesi"
+,
+"Freelancer Commission Fixed": "Serbest Çalışan Komisyonu Sabit"
+,
+"Update Manager": "Güncelleme Yöneticisi"
+,
+"Create Manager": "Yönetici Oluştur"
+,
+"PASSWORD": "ŞİFRE"
+,
+"Enter new password(if you want to update)": "Yeni şifreyi girin (güncellemek istiyorsanız)"
+,
+"Enter password": "Şifre girin"
+,
+"Team Access": "Ekip Erişimi"
+,
+"Selected Teams": "Seçilen Takımlar"
+,
+"All Teams": "Tüm Takımlar"
+,
+"Inactive": "etkin değil"
+,
+"Permission Name": "İzin Adı"
+,
+"Now": "Şimdi"
+,
+"Schedule": "Takvim",
+"Please search a customer or add a customer": "Lütfen bir müşteri arayın veya bir müşteri ekleyin"
+,
+"New Customer": "Yeni müşteri"
+,
+"Date Time": "Tarih Saat",
+"Previous": "Öncesi"
+,
+"Duration (In Min)": "Süre (Dk)"
+,
+"Please select a address or create new": "Lütfen bir adres seçin veya yeni bir adres oluşturun"
+,
+"Location": "Konum",
+"Task Barcode": "Görev Barkodu"
+,
+"Quantity": "Miktar",
+"Task Barcode is required for pickup": "Alım için Görev Barkodu gereklidir"
+,
+"Task Barcode is required for drop": "Bırakmak için Görev Barkodu gereklidir"
+,
+"Task Barcode is required for appointment": "Randevu için Görev Barkodu gereklidir"
+,
+"Add Sub Task": "Alt Görev Ekle"
+,
+"Meta Data": "Meta Veri",
+"Upload Image": "Fotoğraf yükleniyor"
+,
+"Call Back URL": "Geri Arama URL'si",
+"Allocation": "Tahsis",
+"Cash to be collected": "Toplanacak nakit",
+"Please select atlest one tag for driver and agent": "Lütfen sürücü ve acente için en az bir etiket seçin"
+,
+"Team Tag": "Takım etiketi"
+,
+"Select tag...": "Etiket seçin..."
+,
+"Driver Tag": "Sürücü Etiketi"
+,
+"Search Customer": "Müşteri Ara"
+,
+"Task Description": "Görev tanımı"
+,
+"Route": "Güzergah"
+,
+"Manager": "Müdür"
+,
+"Enter mobile number": "Cep telefonu numarasını girin"
+,
+"Edit Message": "Mesajı Düzenle"
+,
+"Message": "İleti"
+,
+"driver_name": "sürücü adı"
+,
+"vehicle_model": "Araç modeli"
+,
+"plate_number": "plaka numarası"
+,
+"tracking_link": "izleme_bağlantısı"
+,
+"feedback_url": "feedback_url",
+"Edit Route": "Rotayı Düzenle"
+,
+"Pickup Task": "Alma Görevi"
+,
+"Drop Off Task": "Görevi Bırakma"
+,
+"Appointment": "Randevu",
+"Address Short Name": "Adres Kısa Adı"
+,
+"PostCode": "Posta kodu",
+"Recipient Phone": "Alıcı Telefon"
+,
+"Recipient Email": "Alıcının E-posta"
+,
+"Net Quantity": "Net Miktar",
+"Unassigned": "Atanmamış"
+,
+"Manual": "Manuel",
+"PostsCode": "GönderilerKodu"
+,
+"contact-img": "iletişim-img"
+,
+"Track Url": "URL'yi İzle"
+,
+"Copied": "kopyalandı"
+,
+"Rejections": "retler",
+"No rejection found": "Reddedilme bulunamadı"
+,
+"Task List": "Görev listesi"
+,
+"Are you sure?": "Emin misin?",
+"Pickup": "Almak",
+"Drop": "Düşürmek"
+,
+"John Doe": "John Doe",
+"View OTP after Logging in the Driver App": "Sürücü Uygulamasında Oturum Açtıktan Sonra OTP'yi Görüntüle"
+,
+"Base Duration (In Minutes)": "Baz Süre (Dakika)"
+,
+"Total Customers": "Toplam Müşteri"
+,
+"In-Active": "Aktif",
+"Export": "İhracat"
+,
+"Optimize": "optimize et",
+"Unassigned Tasks": "Atanmamış Görevler"
+,
+"miles": "mil",
+"pickup": "almak",
+"Dropoff": "Bırakmak"
+,
+"Assigned": "Atandı"
+,
+"district": "semt",
+"Showing 1 to 10 of 21 entries": "21 kayıttan 1 ile 10 arası gösteriliyor"
+,
+"Search Customers": "Müşteri Ara"
+,
+"House/Apartment/Flat number": "Ev/Daire/Daire numarası"
+,
+"Short name": "Kısa adı"
+,
+"Active Orders": "Aktif Siparişler"
+,
+"Active Customer": "Aktif Müşteri"
+,
+"Active Agents": "Aktif Ajanlar",
+"InActive": "Aktif Değil"
+,
+"ID Customer": "Kimlik Müşteri"
+,
+"URL Tracking": "URL İzleme"
+,
+"Updated At": "Güncellenme Tarihi"
+,
+"No Proof Found": "Kanıt Bulunamadı"
+,
+"Task Details": "Görev Ayrıntıları"
+,
+"Pickup task": "alma görevi"
+,
+"Drop Off task": "Bırakma görevi"
+,
+"Duration Price": "Süre Fiyat"
+,
+"Agent Type": "Temsilci Türü"
+,
+"Distance Price": "Mesafe Fiyatı"
+,
+"Actual Distance": "Gerçek Mesafe"
+,
+"Billing Distance": "Faturalandırma Mesafesi"
+,
+"Distance Cost": "Mesafe Maliyeti",
+"Actual Duration": "Gerçek Süre"
+,
+"Billing Duration": "Faturalandırma Süresi"
+,
+"Duration Cost": "Süre Maliyeti"
+,
+"Order Cost": "Sipariş Maliyeti"
+,
+"Driver Cost": "Sürücü Maliyeti"
+,
+"Employee Commission %": "Çalışan Komisyonu %"
+,
+"Freelancer Commission%": "Serbest Çalışan Komisyonu%"
+,
+"Payment Options": "Ödeme seçenekleri"
+,
+"Payout Requests": "Ödeme Talepleri"
+,
+"light theme": "hafif tema",
+"Next": "Sonraki",
+"Customer Support": "Müşteri desteği"
+,
+"View and update your Customer Support, it's API key and Application ID": "Müşteri Desteğinizi görüntüleyin ve güncelleyin, bu API anahtarı ve Uygulama Kimliğidir"
+,
+"please enter key": "lütfen anahtarı girin"
+,
+"Please enter key": "Lütfen anahtarı girin"
+,
+"Drivers start Day at": "Sürücüler güne başlar"
+,
+"AM": "AM",
+"PM": "ÖĞLEDEN SONRA"
+,
+"Driver break end time": "Sürücü molası bitiş zamanı"
+,
+"Driver break start time": "Sürücü molası başlama zamanı"
+,
+"Driver start location": "Sürücü başlangıç ​​konumu"
+,
+"Contact number": "İletişim numarası"
+,
+"Successful": "Başarılı"
+,
+"Agent Started": "Temsilci Başladı"
+,
+"Agent Arrived": "Ajan Geldi",
+"Pickup Notifications": "Teslim Alma Bildirimleri",
+"Drop-off Notifications": "Bırakma Bildirimleri"
+,
+"Appointment Notifications": "Randevu Bildirimleri",
+"Customer Delivery OTP": "Müşteri Teslimatı OTP"
+,
+"net earning": "net kazanç"
+,
+"number of order": "sipariş sayısı"
+,
+"earning": "kazanç"
+,
+"Order": "Emir",
+"View and Update FCM key.": "FCM anahtarını görüntüleyin ve güncelleyin."
+,
+"Referred By Amount": "Miktarına Göre Yönlendirilen"
+,
+"DRIVER REGISTRATION DOCUMENTS": "SÜRÜCÜ KAYIT BELGELERİ"
+,
+"Driver Registration Phone Verification": "Sürücü Kaydı Telefon Doğrulaması"
+,
+"Edit Order By Driver": "Sürücüye Göre Sıralamayı Düzenle"
+,
+"Refer And Earn": "Tavsiye Edin ve Kazanın"
+,
+"Referred To Amount": "Belirtilen Tutar",
+"Cancel Order By Driver": "Sürücü Tarafından Siparişi İptal Et"
+,
+"add": "Ekle",
+"Agent deleted successfully!": "Temsilci başarıyla silindi!"
+,
+"Search Agent": "Arama Aracısı"
+,
+"agent ID": "temsilci kimliği"
+,
+"awaiting approval": "Onay Bekleniyor",
+"Blocked": "Engellendi",
+"Filter by tags": "Etiketlere göre filtrele"
+,
+"Filter by location": "Yere göre filtrele"
+,
+"Employees": "Çalışanlar"
+,
+"Approved Agents": "Onaylı Temsilciler"
+,
+"Unapproved Agents": "Onaylanmamış Temsilciler"
+,
+"Edit": "Düzenlemek"
+,
+"Customer ID": "Müşteri Kimliği"
+,
+"House / Apartment/ Flat number": "Ev / Daire / Daire numarası"
+,
+"House/Apartment/Flat no": "Ev/Daire/Daire no",
+"Please enter task description": "Lütfen görev tanımını girin"
+,
+"Busy": "Meşgul"
+,
+"Free": "Özgür"
+,
+"Search Routes": "Rotaları Ara"
+,
+"Driver not assigned yet": "Sürücü henüz atanmadı"
+,
+"Call": "Telefon etmek",
+"Drop-Off": "Bırakmak"
+,
+"Total Order Value": "Toplam Sipariş Değeri"
+,
+"Pending Payout Value": "Bekleyen Ödeme Değeri"
+,
+"Completed Payout Value": "Tamamlanan Ödeme Değeri"
+,
+"Pending": "Askıda olması"
+,
+"Completed": "Tamamlanmış"
+,
+"Payout": "ödeme"
+,
+"Date": "Tarih",
+"Payout Type": "Ödeme Türü"
+,
+"Bank Detials": "Banka Detayları"
+,
+"Are you sure you want to payout": "Ödeme yapmak istediğinizden emin misiniz?"
+,
+"Continue": "Devam et",
+"Are you sure you want to payout for selected requests?": "Seçilen istekler için ödeme yapmak istediğinizden emin misiniz?"
+,
+"Account Holder Name": "Hesap Sahibinin Adı"
+,
+"Bank Account Number": "Banka hesabı numarası"
+,
+"IFSC Code": "IFSC Kodu",
+"Pay Details": "Ödeme Ayrıntıları"
+,
+"Favicon": "Favicon",
+"Delivery OTP": "Teslimat OTP'si",
+"Agent ID": "Temsilci Kimliği"
+,
+"Awaiting Approval": "Onay Bekleniyor",
+"Total Agents": "Toplam Temsilciler",
+"Approved At": "Onaylanma Tarihi",
+"Face Proof": "Yüz Korumalı"
+,
+"Total Paid to Agent": "Temsilciye Ödenen Toplam"
+,
+"Total Receive from Agent": "Temsilciden Toplam Alma",
+"Live OTP": "Canlı OTP"
+,
+"Drag and drop a file or click": "Bir dosyayı sürükleyip bırakın veya tıklayın"
+,
+"Requested At": "İstenen Saat"
+,
+"for": "için"
+,
+"Stripe": "Şerit"
+,
+"Sandbox": "Kum havuzu",
+"Secret Key": "Gizli anahtar",
+"Publishable Key": "Yayınlanabilir Anahtar"
+,
+"Payout Options": "Ödeme Seçenekleri"
+,
+"Off the Platform": "Platform Dışı"
+,
+"Bank Account M (India)": "Banka Hesabı M (Hindistan)"
+,
+"Show entries": "Girişleri göster"
+,
+"Search: ": "Arama: ",
+"Sub domain": "alt alan",
+"API ACCESS TOKEN": "API ERİŞİM TOKEN"
+,
+"DRIVER REGISTRATION DOCUMENTS": "SÜRÜCÜ KAYIT BELGELERİ"
+,
+"Driver Registration Documents": "Sürücü Kayıt Belgeleri"
+,
+"Required?": "Gerekli?",
+"Upload favicon": "Favicon yükle"
+,
+"Razorpay": "Razorpay",
+"Application ID": "Uygulama Kimliği"
+,
+"Please enter application ID": "Lütfen uygulama kimliğini girin"
+,
+"Imperial": "imparatorluk",
+"Level 1": "Seviye 1",
+"Level 2": "Seviye 2",
+"Level 3": "3. seviye",
+"1 Minute": "1 dakika",
+"5 Minutes": "5 dakika",
+"15 Minutes": "15 dakika",
+"Edit Geofence": "Coğrafi Sınırı Düzenle"
+,
+"Result not found.": "Sonuç bulunamadı."
+,
+"Amount is greater than agent available funds": "Tutar, acentenin mevcut fonlarından daha büyük"
+,
+"Export CSV": "CSV'yi dışa aktar"
+,
+"Wallet has been": "Cüzdan"
+,
+"Credited": "Kredili",
+"by transaction reference": "işlem referansına göre"
+,
+"Pricing rule added successfully": "Fiyatlandırma kuralı başarıyla eklendi"
+,
+"Pricing rule updated successfully": "Fiyatlandırma kuralı başarıyla güncellendi"
+,
+"Pricing rule deleted successfully": "Fiyatlandırma kuralı başarıyla silindi"
+
+}

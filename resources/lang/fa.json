@@ -1,0 +1,1046 @@
+{
+"Dashboard": "داشبورد"
+,
+"User": "کاربر"
+,
+"My Account": "حساب من"
+,
+"Logout": "خروج"
+,
+"Admin Head": "سرپرست مدیریت"
+,
+"Home": "صفحه اصلی"
+,
+"Customers": "مشتریان"
+,
+"Routes": "مسیرها"
+,
+"Settings": "تنظیمات"
+,
+"Profile": "مشخصات"
+,
+"Customize": "شخصی سازی"
+,
+"Teams": "تیم ها"
+,
+"Agent": "عامل"
+,
+"Geo Fence": "ژئو حصار"
+,
+"Auto Allocation": "تخصیص خودکار"
+,
+"Pricing Rules": "قوانین قیمت گذاری"
+,
+"Configure": "پیکربندی کنید"
+,
+"Analytics": "تجزیه و تحلیل"
+,
+"Notifications": "اطلاعیه"
+,
+"Managers": "مدیران"
+,
+"Search": "جستجو کردن"
+,
+"Recipient's username": "نام کاربری گیرنده"
+,
+"Add Route": "اضافه کردن مسیر"
+,
+"Welcome": "خوش آمدی"
+,
+"Royo": "رویو"
+,
+"Powered by": "پشتیبانی شده توسط"
+,
+"Dispatch. Fleet Management and Last Mile Delivery solution.": "ارسال. راه حل مدیریت ناوگان و تحویل آخرین مایل."
+,
+"Apps": "برنامه ها"
+,
+"Open All": "همه را باز کنید"
+,
+"Agents": "عوامل"
+,
+"Online": "برخط"
+,
+"success": "موفقیت"
+,
+"error": "خطا"
+,
+"Your Dispatcher verification code is": "کد تأیید Dispatcher شما است"
+,
+"Your account not approved yet. Please contact administration": "حساب شما هنوز تایید نشده است. لطفا با مدیریت تماس بگیرید"
+,
+"User not found": "کاربر پیدا نشد"
+,
+"Please enter a valid OTP": "لطفاً یک OTP معتبر وارد کنید"
+,
+"Your otp has been expired. Please try again.": "otp شما منقضی شده است. لطفا دوباره تلاش کنید."
+,
+"Successfully logged out": "با موفقیت از سیستم خارج شد"
+,
+"Your account created successfully. Please login": "حساب شما با موفقیت ایجاد شد. لطفا وارد شوید"
+,
+"Status updated Successfully": "وضعیت با موفقیت به روز شد"
+,
+"Profile Updated Successfully": "نمایه با موفقیت به روز شد"
+,
+"Sorry Something Went Wrong": "ببخشید مشکلی پیش آمد"
+,
+"Agent created Successfully!": "عامل با موفقیت ایجاد شد!"
+,
+"Documents Sent Successfully!": "اسناد با موفقیت ارسال شد!"
+,
+"This order has already been accepted": "این سفارش قبلا پذیرفته شده است"
+,
+"Task Accepted Successfully": "کار با موفقیت پذیرفته شد"
+,
+"Task Rejected Successfully": "کار با موفقیت رد شد"
+,
+"Task Added Successfully": "کار با موفقیت اضافه شد"
+,
+"Valid Dispatcher API keys": "کلیدهای معتبر Dispatcher API"
+,
+"Feedback has been already submitted": "بازخورد قبلا ارسال شده است"
+,
+"Your feedback is submitted": "بازخورد شما ارسال شد"
+,
+"Order Not Found": "سفارش یافت نشد"
+,
+"Offline": "آفلاین"
+,
+"Tasks": "وظایف"
+,
+"Drivers": "رانندگان"
+,
+"All Drivers": "همه رانندگان"
+,
+"Optimize Route": "بهینه سازی مسیر"
+,
+"Driver starts Day at": "راننده روز را شروع می کند"
+,
+"Please enter the driver start time": "لطفاً زمان شروع راننده را وارد کنید"
+,
+"Task Duration(in min)": "مدت زمان کار (در دقیقه)"
+,
+"Please enter the task duration": "لطفا مدت زمان کار را وارد کنید"
+,
+"Driver Break Start time": "زمان شروع استراحت راننده"
+,
+"Please enter the driver break start time": "لطفاً زمان شروع استراحت راننده را وارد کنید"
+,
+"Driver Start Location": "مکان شروع راننده"
+,
+"Select Location": "مکان را انتخاب کنید"
+,
+"Current location": "موقعیت فعلی"
+,
+"Select Task": "Task را انتخاب کنید"
+,
+"Address": "نشانی"
+,
+"Submit": "ارسال"
+,
+"Name": "نام"
+,
+"Email": "پست الکترونیک"
+,
+"Phone number": "شماره تلفن"
+,
+"Action": "عمل"
+,
+"Status": "وضعیت"
+,
+"Add Customer": "مشتری اضافه کنید"
+,
+"Organization details": "جزئیات سازمان"
+,
+"View and edit your organization's profile details.": "جزئیات نمایه سازمان خود را مشاهده و ویرایش کنید."
+,
+"Upload Logo": "لوگو را بارگذاری کنید"
+,
+"Short Code": "کد کوتاه"
+,
+"NAME": "نام"
+,
+"EMAIL": "پست الکترونیک"
+,
+"Enter email address": "ادرس پست الکترونیکی را وارد کن"
+,
+"CONTACT NUMBER": "شماره تماس"
+,
+"COMPANY ADDRESS": "آدرس شرکت"
+,
+"COMPANY NAME": "نام شرکت"
+,
+"Enter company address": "آدرس شرکت را وارد کنید"
+,
+"Enter company name": "نام شرکت را وارد کنید"
+,
+"COUNTRY": "کشور"
+,
+"Country": "کشور"
+,
+"TIMEZONE": "منطقه زمانی"
+,
+"Timezone": "منطقه زمانی"
+,
+"Change Password": "رمز عبور را تغییر دهید"
+,
+"Old Password": "رمز عبور قدیمی"
+,
+"Enter your old password": "رمز عبور قدیمی خود را وارد کنید"
+,
+"New Password": "رمز عبور جدید"
+,
+"Enter your password": "رمز عبور خود را وارد کنید"
+,
+"Confirm Password": "رمز عبور را تایید کنید"
+,
+"Enter your confirm password": "رمز عبور تأیید خود را وارد کنید"
+,
+"Update": "به روز رسانی"
+,
+"Theme": "موضوع"
+,
+"Choose between light and dark theme, for the platform.": "برای پلتفرم، بین تم روشن و تاریک انتخاب کنید."
+,
+"Light theme": "تم سبک"
+,
+"Dark theme": "تم تاریک"
+,
+"Saved Address selection": "انتخاب آدرس ذخیره شده"
+,
+"Manage how you want to show saved addresses while creating routes.": "نحوه نمایش آدرس های ذخیره شده را هنگام ایجاد مسیرها مدیریت کنید."
+,
+"Shared saved addresses for all customers": "آدرس های ذخیره شده را برای همه مشتریان به اشتراک گذاشت"
+,
+"Saved addresses linked to each customer": "آدرس های ذخیره شده مرتبط با هر مشتری"
+,
+"CMS": "CMS",
+"View and update the Terms and Privacy content for the Agent App.": "شرایط و محتوای حریم خصوصی برنامه نماینده را مشاهده و به روز کنید."
+,
+"Terms and Conditions": "شرایط و ضوابط"
+,
+"Privacy Policy": "سیاست حفظ حریم خصوصی"
+,
+"Nomenclature & Localisation": "نامگذاری و محلی سازی"
+,
+"View and update the naming, currency and distance units.": "واحدهای نامگذاری، ارز و فاصله را مشاهده و به روز کنید."
+,
+"AGENT NAME": "نام عامل"
+,
+"CURRENCY": "واحد پول"
+,
+"Driver": "راننده"
+,
+"Unit": "واحد"
+,
+"Metric": "متریک"
+,
+"Date & Time": "وقت قرار"
+,
+"View and update the date & time format.": "فرمت تاریخ و زمان را مشاهده و به روز کنید."
+,
+"DATE FORMAT": "فرمت تاریخ"
+,
+"TIME FORMAT": "فرمت زمان"
+,
+"hours": "ساعت ها"
+,
+"Task Completion Proofs": "مدارک تکمیل کار"
+,
+"Type": "تایپ کنید"
+,
+"Enable": "فعال کنید"
+,
+"Required": "ضروری"
+,
+"Notes": "یادداشت"
+,
+"Image": "تصویر"
+,
+"Signature": "امضا"
+,
+"Barcode": "بارکد"
+,
+"Team": "تیم"
+,
+"Add Team": "تیم را اضافه کنید"
+,
+"Team Name": "نام گروه"
+,
+"Location Accuracy": "دقت مکان"
+,
+"Location Frequency": "فرکانس مکان"
+,
+"Team Strength": "قدرت تیم"
+,
+"Tags": "برچسب ها"
+,
+"Edit Report": "ویرایش گزارش"
+,
+"Export Report": "گزارش صادرات"
+,
+"Go": "برو"
+,
+"Clear": "پاک کردن"
+,
+"Add": "اضافه کردن"
+,
+"Pay": "پرداخت"
+,
+"Receive": "دريافت كردن"
+,
+"Uid": "Uid",
+"Phone": "تلفن"
+,
+"Vehicle": "وسیله نقلیه"
+,
+"Cash Collected": "پول نقد جمع آوری شد"
+,
+"Order Earning": "سفارش کسب درآمد"
+,
+"Total Paid to Driver": "مجموع پرداختی به راننده"
+,
+"Total Receive from Driver": "دریافت کل از راننده"
+,
+"Final Balance": "تراز نهایی"
+,
+"Is Approved?": "تایید شده است؟"
+,
+"Geo-fences": "ژئو حصارها"
+,
+"Add Geo-fence": "ژئو حصار را اضافه کنید"
+,
+"Acknowledgement Type": "نوع تصدیق"
+,
+"Agent can either acknowledge the receipt of the task or accept/decline a Task based on your selection below.": "نماینده می تواند دریافت کار را تأیید کند یا بر اساس انتخاب شما در زیر، یک کار را بپذیرد/رد کند."
+,
+"Acknowledge": "اذعان"
+,
+"Accept": "تایید کنید"
+,
+"Reject": "رد کردن"
+,
+"None": "هیچ یک"
+,
+"Enable this option to automatically assign Task to your agent.": "این گزینه را فعال کنید تا Task به صورت خودکار به نماینده شما اختصاص یابد."
+,
+"No. Of Retries": "تعداد تلاش های مجدد"
+,
+"Start Allocation Before": "شروع تخصیص قبل"
+,
+"In Min": "در حداقل"
+,
+"Request Expires": "درخواست منقضی می شود"
+,
+"In Sec": "در ثانیه"
+,
+"Maximum Task Per Person": "حداکثر وظیفه برای هر نفر"
+,
+"Maximum Radius": "حداکثر شعاع"
+,
+"Maximum Cash At Hand Per Person": "حداکثر پول نقد به ازای هر نفر"
+,
+"Select a method to allocate task": "روشی را برای تخصیص کار انتخاب کنید"
+,
+"One By One": "یکی یکی"
+,
+"Allocation will done one by one": "تخصیص یک به یک انجام خواهد شد"
+,
+"Send to all": "ارسال به همه"
+,
+"Allocation request will send to all": "درخواست تخصیص برای همه ارسال خواهد شد"
+,
+"Batch Wise": "دسته ای عاقل"
+,
+"Allocation request will done batch wise": "درخواست تخصیص به صورت دسته ای انجام می شود"
+,
+"Round Robin": "درخواست کتبی"
+,
+"Allocation request will done in round robin format": "درخواست تخصیص به صورت گرد و غبار انجام می شود"
+,
+"Start Radius": "شروع Radius"
+,
+"Maximum Batch Size": "حداکثر اندازه دسته"
+,
+"Add Pricing Rules": "قوانین قیمت گذاری را اضافه کنید"
+,
+"Base Price": "قیمت پایه"
+,
+"Base Duration": "مدت زمان پایه"
+,
+"Base Distance": "فاصله پایه"
+,
+"Base Waiting": "انتظار پایه"
+,
+"Map Configuration": "پیکربندی نقشه"
+,
+"View and update your Map type and it's API key.": "نوع نقشه و کلید API خود را مشاهده و به روز کنید."
+,
+"MAP TYPE": "نوع نقشه"
+,
+"API Key": "کلید ای پی ای"
+,
+"SMS": "پیامک"
+,
+"View and update your SMS Gateway and it's API keys.": "درگاه SMS و کلیدهای API آن را مشاهده و به روز کنید."
+,
+"CURRENT SELECTION": "انتخاب فعلی"
+,
+"Number": "عدد"
+,
+"Account SID": "شناسه حساب"
+,
+"Account Sid": "اکانت سید"
+,
+"Auth Token": "رمز تأیید"
+,
+"View and update your SMTP credentials.": "اطلاعات کاربری SMTP خود را مشاهده و به روز کنید."
+,
+"Host": "میزبان"
+,
+"Port": "بندر"
+,
+"Encryption": "رمزگذاری"
+,
+"User-Name": "نام کاربری"
+,
+"Password": "کلمه عبور"
+,
+"Form Address": "آدرس فرم"
+,
+"Personal Access Token": "رمز دسترسی شخصی"
+,
+"View and Generate API keys.": "مشاهده و ایجاد کلیدهای API."
+,
+"Generate Key": "ایجاد کلید"
+,
+"Custom Domain": "دامنه سفارشی"
+,
+"View and update your Domain.": "دامنه خود را مشاهده و به روز کنید."
+,
+"Make sure you already pointed to IP": "مطمئن شوید که قبلا به IP اشاره کرده اید"
+,
+"from your domain": "از دامنه شما"
+,
+"View and update your Sub Domain.": "زیر دامنه خود را مشاهده و به روز کنید."
+,
+"Sub Domain": "زیر دامنه"
+,
+"FCM Server Key": "کلید سرور FCM"
+,
+"View and Update FCM key": "مشاهده و به روز رسانی کلید FCM"
+,
+"FCM Key": "کلید FCM"
+,
+"Choose Email paid plan to whitelable 'From email address' and 'Sender Name' in the Email sent out from your account.": "طرح پولی ایمیل را انتخاب کنید تا «از آدرس ایمیل» و «نام فرستنده» در ایمیلی که از حساب شما ارسال می‌شود، سفید شود."
+,
+"Select Plan": "برنامه را انتخاب کنید"
+,
+"Free": "رایگان"
+,
+"Paid": "پرداخت شده"
+,
+"PREVIEW": "پیش نمایش"
+,
+"Your message here": "پیام شما اینجاست"
+,
+"Platform Earning": "درآمد پلتفرم"
+,
+"Agents's Earning": "درآمد نمایندگان"
+,
+"Orders": "سفارشات"
+,
+"Today": "امروز"
+,
+"Weekly": "هفتگی"
+,
+"Monthly": "ماهانه"
+,
+"Cash at hand": "پول نقد در دست است"
+,
+"Phone Number": "شماره تلفن"
+,
+"Member Since": "عضو از"
+,
+"Total Spent": "جمع هزینه"
+,
+"Total Orders": "کل سفارشات"
+,
+"Send SMS's and emails based on each trigger and customize the content by clicking on the edit icon.": "پیامک ها و ایمیل ها را بر اساس هر محرک ارسال کنید و با کلیک بر روی نماد ویرایش، محتوا را سفارشی کنید."
+,
+"Customer": "مشتری"
+,
+"Recipient": "گیرنده"
+,
+"Events": "مناسبت ها"
+,
+"Add Manager": "مدیر را اضافه کنید"
+,
+"Pending Assignment": "تکلیف در انتظار"
+,
+"Active": "فعال"
+,
+"History": "تاریخ"
+,
+"Failed": "ناموفق"
+,
+"Assign": "اختصاص دهید"
+,
+"Change Date": "تغییر تاریخ"
+,
+"Time": "زمان"
+,
+"Phone.No": "شماره تلفن"
+,
+"Due Time": "زمان مقرر"
+,
+"Tracking URL": "URL پیگیری"
+,
+"Route Proofs": "مدارک مسیر"
+,
+"Pricing": "قیمت گذاری"
+,
+"Track": "مسیر"
+,
+"Short Name": "نام کوتاه"
+,
+"Post Code": "کد پستی"
+,
+"Add More Address": "افزودن آدرس بیشتر"
+,
+"Edit Customer": "مشتری را ویرایش کنید"
+,
+"Ok": "خوب"
+,
+"Tag": "برچسب بزنید"
+,
+"Edit Team": "ویرایش تیم"
+,
+"Profile Pic": "عکس پروفایل"
+,
+"TYPE": "تایپ کنید"
+,
+"Employee": "کارمند"
+,
+"Freelancer": "فریلنسر"
+,
+"ASSIGN TEAM": "تیم را تعیین کنید"
+,
+"TRANSPORT ICON": "نوع حمل و نقل"
+,
+"TRANSPORT DETAILS": "جزئیات حمل و نقل"
+,
+"Year, Make, Model": "سال، ساخت، مدل"
+,
+"UID": "UID",
+"LICENCE PLATE": "صفحه مجوز"
+,
+"COLOR": "رنگ"
+,
+"Color": "رنگ"
+,
+"Receive Money": "دریافت پول"
+,
+"Select": "انتخاب کنید"
+,
+"Amount": "میزان"
+,
+"Back": "بازگشت"
+,
+"Edit Mode": "حالت ویرایش"
+,
+"Add Geofence": "Geofence را اضافه کنید"
+,
+"Description (Optional)": "توضیح (اختیاری)"
+,
+"All": "همه"
+,
+"Select All": "انتخاب همه"
+,
+"Show All": "نمایش همه"
+,
+"Cancel": "لغو کنید"
+,
+"Save": "صرفه جویی"
+,
+"Add Pricing Rule": "اضافه کردن قانون قیمت گذاری"
+,
+"Pricing Edit": "ویرایش قیمت"
+,
+"Select Geo Fence": "Geo Fence را انتخاب کنید"
+,
+"Select Team": "تیم را انتخاب کنید"
+,
+"Select Team Tag": "تگ تیم را انتخاب کنید"
+,
+"Select Driver Tag": "Driver Tag را انتخاب کنید"
+,
+"Duration Price(per minute)": "مدت زمان قیمت (در دقیقه)"
+,
+"Waiting Price": "قیمت انتظار"
+,
+"Distance Fee": "هزینه مسافت"
+,
+"Cancel Fee": "هزینه لغو"
+,
+"Employee Commission Percentage": "درصد کمیسیون کارکنان"
+,
+"Employee Commission Fixed": "کمیسیون کارکنان ثابت شد"
+,
+"Freelancer Commission Percentage": "درصد کمیسیون فریلنسر"
+,
+"Freelancer Commission Fixed": "کمیسیون فریلنسر ثابت شد"
+,
+"Update Manager": "مدیر به روز رسانی"
+,
+"Create Manager": "مدیر ایجاد کنید"
+,
+"PASSWORD": "کلمه عبور"
+,
+"Enter new password(if you want to update)": "رمز عبور جدید را وارد کنید (اگر می خواهید به روز کنید)"
+,
+"Enter password": "رمز عبور را وارد کنید"
+,
+"Team Access": "دسترسی تیم"
+,
+"Selected Teams": "تیم های منتخب"
+,
+"All Teams": "همه تیم ها"
+,
+"Inactive": "غیر فعال"
+,
+"Permission Name": "نام مجوز"
+,
+"Now": "اکنون"
+,
+"Schedule": "برنامه"
+,
+"Please search a customer or add a customer": "لطفا یک مشتری جستجو کنید یا یک مشتری اضافه کنید"
+,
+"New Customer": "مشتری جدید"
+,
+"Date Time": "وقت قرار"
+,
+"Previous": "قبلی"
+,
+"Duration (In Min)": "مدت زمان (در حداقل)"
+,
+"Please select a address or create new": "لطفاً یک آدرس انتخاب کنید یا جدید ایجاد کنید"
+,
+"Location": "محل"
+,
+"Task Barcode": "بارکد وظیفه"
+,
+"Quantity": "تعداد"
+,
+"Task Barcode is required for pickup": "بارکد وظیفه برای دریافت مورد نیاز است"
+,
+"Task Barcode is required for drop": "بارکد وظیفه برای رها کردن مورد نیاز است"
+,
+"Task Barcode is required for appointment": "برای قرار ملاقات نیاز به بارکد وظیفه است"
+,
+"Add Sub Task": "کار فرعی را اضافه کنید"
+,
+"Meta Data": "متا دیتا"
+,
+"Upload Image": "آپلود تصویر"
+,
+"Call Back URL": "آدرس برگشت تماس"
+,
+"Allocation": "تخصیص"
+,
+"Cash to be collected": "پول نقد جمع آوری شود"
+,
+"Please select atlest one tag for driver and agent": "لطفاً حداقل یک برچسب برای راننده و نماینده انتخاب کنید"
+,
+"Team Tag": "تگ تیم"
+,
+"Select tag...": "انتخاب برچسب..."
+,
+"Driver Tag": "برچسب راننده"
+,
+"Search Customer": "جستجوی مشتری"
+,
+"Task Description": "شرح وظیفه"
+,
+"Route": "مسیر"
+,
+"Manager": "مدیر"
+,
+"Enter mobile number": "شماره موبایل را وارد کنید"
+,
+"Edit Message": "ویرایش پیام"
+,
+"Message": "پیام"
+,
+"driver_name": "نام راننده"
+,
+"vehicle_model": "خودرو_مدل"
+,
+"plate_number": "شماره پلاک"
+,
+"tracking_link": "tracking_link",
+"feedback_url": "feedback_url",
+"Edit Route": "ویرایش مسیر"
+,
+"Pickup Task": "وظیفه وانت"
+,
+"Drop Off Task": "رها کردن کار"
+,
+"Appointment": "وقت ملاقات"
+,
+"Address Short Name": "نام کوتاه آدرس"
+,
+"PostCode": "کد پستی"
+,
+"Recipient Phone": "تلفن گیرنده"
+,
+"Recipient Email": "ایمیل گیرنده"
+,
+"Net Quantity": "مقدار خالص"
+,
+"Unassigned": "اختصاص داده نشده است"
+,
+"Manual": "کتابچه راهنمای"
+,
+"PostsCode": "کد پستی"
+,
+"contact-img": "contact-img",
+"Track Url": "آدرس اینترنتی ردیابی"
+,
+"Copied": "کپی شد"
+,
+"Rejections": "ردها"
+,
+"No rejection found": "ردی یافت نشد"
+,
+"Task List": "فهرست وظیفه یا لیست کار"
+,
+"Are you sure?": "مطمئنی؟"
+,
+"Pickup": "سوار کردن"
+,
+"Drop": "رها کردن"
+,
+"John Doe": "جان دو"
+,
+"View OTP after Logging in the Driver App": "OTP را پس از ورود به برنامه Driver مشاهده کنید"
+,
+"Base Duration (In Minutes)": "مدت زمان پایه (در دقیقه)"
+,
+"Total Customers": "کل مشتریان"
+,
+"In-Active": "غیر فعال"
+,
+"Export": "صادرات"
+,
+"Optimize": "بهینه سازی کنید"
+,
+"Unassigned Tasks": "وظایف تعیین نشده"
+,
+"miles": "مایل"
+,
+"pickup": "سوار کردن"
+,
+"Dropoff": "رها کردن"
+,
+"Assigned": "اختصاص داده"
+,
+"district": "ناحیه"
+,
+"Showing 1 to 10 of 21 entries": "نمایش 1 تا 10 از 21 ورودی"
+,
+"Search Customers": "جستجوی مشتریان"
+,
+"House/Apartment/Flat number": "خانه / آپارتمان / شماره آپارتمان"
+,
+"Short name": "نام کوتاه"
+,
+"Active Orders": "سفارشات فعال"
+,
+"Active Customer": "مشتری فعال"
+,
+"Active Agents": "عوامل فعال"
+,
+"InActive": "غیر فعال"
+,
+"ID Customer": "مشتری شناسه"
+,
+"URL Tracking": "ردیابی URL"
+,
+"Updated At": "به روز شده در"
+,
+"No Proof Found": "هیچ مدرکی پیدا نشد"
+,
+"Task Details": "جزئیات کار"
+,
+"Pickup task": "وظیفه وانت"
+,
+"Drop Off task": "وظیفه رها کردن"
+,
+"Duration Price": "مدت زمان قیمت"
+,
+"Agent Type": "نوع عامل"
+,
+"Distance Price": "قیمت از راه دور"
+,
+"Actual Distance": "فاصله واقعی"
+,
+"Billing Distance": "فاصله صورتحساب"
+,
+"Distance Cost": "هزینه مسافت"
+,
+"Actual Duration": "مدت زمان واقعی"
+,
+"Billing Duration": "مدت صورتحساب"
+,
+"Duration Cost": "هزینه مدت"
+,
+"Order Cost": "هزینه سفارش"
+,
+"Driver Cost": "هزینه راننده"
+,
+"Employee Commission %": "درصد کمیسیون کارکنان"
+,
+"Freelancer Commission%": "کمیسیون فریلنسر%"
+,
+"Payment Options": "گزینه های پرداخت"
+,
+"Payout Requests": "درخواست های پرداخت"
+,
+"light theme": "تم سبک"
+,
+"Next": "بعد"
+,
+"Customer Support": "پشتیبانی مشتری"
+,
+"View and update your Customer Support, it's API key and Application ID": "پشتیبانی مشتری خود را مشاهده و به روز کنید، این کلید API و شناسه برنامه است"
+,
+"please enter key": "لطفا کلید را وارد کنید"
+,
+"Please enter key": "لطفا کلید را وارد کنید"
+,
+"Drivers start Day at": "رانندگان روز را در شروع می کنند"
+,
+"AM": "صبح"
+,
+"PM": "PM",
+"Driver break end time": "زمان پایان استراحت راننده"
+,
+"Driver break start time": "زمان شروع استراحت راننده"
+,
+"Driver start location": "محل شروع راننده"
+,
+"Contact number": "شماره تماس"
+,
+"Successful": "موفقیت آمیز"
+,
+"Agent Started": "عامل شروع شد"
+,
+"Agent Arrived": "مامور رسید"
+,
+"Pickup Notifications": "اطلاعیه های وانت"
+,
+"Drop-off Notifications": "اعلان های خروج"
+,
+"Appointment Notifications": "اطلاعیه های قرار"
+,
+"Customer Delivery OTP": "OTP تحویل مشتری"
+,
+"net earning": "سود خالص"
+,
+"number of order": "تعداد سفارش"
+,
+"earning": "درآمد"
+,
+"Order": "سفارش"
+,
+"View and Update FCM key.": "مشاهده و به روز رسانی کلید FCM."
+,
+"Referred By Amount": "ارجاع شده توسط مقدار"
+,
+"DRIVER REGISTRATION DOCUMENTS": "مدارک ثبت نام راننده"
+,
+"Driver Registration Phone Verification": "تأیید تلفن ثبت نام راننده"
+,
+"Edit Order By Driver": "ویرایش سفارش توسط راننده"
+,
+"Refer And Earn": "مراجعه کنید و کسب درآمد کنید"
+,
+"Referred To Amount": "ارجاع به مقدار"
+,
+"Cancel Order By Driver": "لغو سفارش توسط راننده"
+,
+"add": "اضافه کردن"
+,
+"Agent deleted successfully!": "نماینده با موفقیت حذف شد!"
+,
+"Search Agent": "عامل جستجو"
+,
+"agent ID": "شناسه نماینده"
+,
+"awaiting approval": "منتظر تایید"
+,
+"Blocked": "مسدود"
+,
+"Filter by tags": "فیلتر بر اساس برچسب"
+,
+"Filter by location": "فیلتر بر اساس مکان"
+,
+"Employees": "کارمندان"
+,
+"Approved Agents": "نمایندگان تایید شده"
+,
+"Unapproved Agents": "نمایندگان تایید نشده"
+,
+"Edit": "ویرایش کنید"
+,
+"Customer ID": "شناسه مشتری"
+,
+"House / Apartment/ Flat number": "خانه / آپارتمان / شماره آپارتمان"
+,
+"House/Apartment/Flat no": "خانه / آپارتمان / آپارتمان شماره"
+,
+"Please enter task description": "لطفا شرح کار را وارد کنید"
+,
+"Busy": "مشغول"
+,
+"Free": "رایگان"
+,
+"Search Routes": "جستجوی مسیرها"
+,
+"Driver not assigned yet": "راننده هنوز تعیین نشده است"
+,
+"Call": "زنگ زدن"
+,
+"Drop-Off": "رها کردن"
+,
+"Total Order Value": "ارزش کل سفارش"
+,
+"Pending Payout Value": "ارزش پرداخت معلق"
+,
+"Completed Payout Value": "ارزش پرداخت تکمیل شده"
+,
+"Pending": "در انتظار"
+,
+"Completed": "تکمیل شد"
+,
+"Payout": "پرداخت"
+,
+"Date": "تاریخ"
+,
+"Payout Type": "نوع پرداخت"
+,
+"Bank Detials": "مشخصات بانکی"
+,
+"Are you sure you want to payout": "آیا مطمئن هستید که می خواهید پرداخت کنید"
+,
+"Continue": "ادامه هید"
+,
+"Are you sure you want to payout for selected requests?": "آیا مطمئن هستید که می‌خواهید برای درخواست‌های انتخابی پرداخت کنید؟"
+,
+"Account Holder Name": "نام صاحب حساب"
+,
+"Bank Account Number": "شماره حساب بانکی"
+,
+"IFSC Code": "کد IFSC"
+,
+"Pay Details": "جزئیات پرداخت"
+,
+"Favicon": "فاویکون"
+,
+"Delivery OTP": "تحویل OTP"
+,
+"Agent ID": "شناسه نماینده"
+,
+"Awaiting Approval": "منتظر تایید"
+,
+"Total Agents": "مجموع نمایندگان"
+,
+"Approved At": "تایید شده در"
+,
+"Face Proof": "اثبات چهره"
+,
+"Total Paid to Agent": "مجموع پرداخت شده به نماینده"
+,
+"Total Receive from Agent": "دریافت کل از نماینده"
+,
+"Live OTP": "OTP زنده"
+,
+"Drag and drop a file or click": "یک فایل را بکشید و رها کنید یا کلیک کنید"
+,
+"Requested At": "درخواست شده در"
+,
+"for": "برای"
+,
+"Stripe": "راه راه"
+,
+"Sandbox": "جعبه شنی"
+,
+"Secret Key": "کلید مخفی"
+,
+"Publishable Key": "کلید قابل انتشار"
+,
+"Payout Options": "گزینه های پرداخت"
+,
+"Off the Platform": "خارج از پلت فرم"
+,
+"Bank Account M (India)": "حساب بانکی M (هند)"
+,
+"Show entries": "نمایش ورودی ها"
+,
+"Search: ": "جستجو کردن: "
+,
+"Sub domain": "زیر دامنه"
+,
+"API ACCESS TOKEN": "رمز دسترسی به API"
+,
+"DRIVER REGISTRATION DOCUMENTS": "مدارک ثبت نام راننده"
+,
+"Driver Registration Documents": "مدارک ثبت نام راننده"
+,
+"Required?": "ضروری؟"
+,
+"Upload favicon": "فاویکون را بارگذاری کنید"
+,
+"Razorpay": "Razorpay",
+"Application ID": "شناسه برنامه"
+,
+"Please enter application ID": "لطفا شناسه برنامه را وارد کنید"
+,
+"Imperial": "امپراتوری"
+,
+"Level 1": "سطح 1"
+,
+"Level 2": "سطح 2"
+,
+"Level 3": "مرحله 3"
+,
+"1 Minute": "1 دقیقه"
+,
+"5 Minutes": "5 دقیقه"
+,
+"15 Minutes": "15 دقیقه"
+,
+"Edit Geofence": "Geofence را ویرایش کنید"
+,
+"Result not found.": "نتیجه یافت نشد"
+,
+"Amount is greater than agent available funds": "مبلغ بیشتر از وجوه موجود نماینده است"
+,
+"Export CSV": "صادرات CSV"
+,
+"Wallet has been": "کیف پول بوده است"
+,
+"Credited": "اعتبار یافته است"
+,
+"by transaction reference": "با مرجع معامله"
+,
+"Pricing rule added successfully": "قانون قیمت گذاری با موفقیت اضافه شد"
+,
+"Pricing rule updated successfully": "قانون قیمت گذاری با موفقیت به روز شد"
+,
+"Pricing rule deleted successfully": "قانون قیمت گذاری با موفقیت حذف شد"
+
+}

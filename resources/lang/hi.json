@@ -1,0 +1,1054 @@
+{
+"Dashboard": "डैशबोर्ड"
+,
+"User": "उपयोगकर्ता"
+,
+"My Account": "मेरा खाता"
+,
+"Logout": "लॉग आउट"
+,
+"Admin Head": "व्यवस्थापक प्रमुख"
+,
+"Home": "घर"
+,
+"Customers": "ग्राहकों"
+,
+"Routes": "मार्गों"
+,
+"Settings": "समायोजन"
+,
+"Profile": "प्रोफ़ाइल"
+,
+"Customize": "अनुकूलित करें"
+,
+"Teams": "टीमों"
+,
+"Agent": "प्रतिनिधि"
+,
+"Geo Fence": "भू बाड़"
+,
+"Auto Allocation": "ऑटो आवंटन"
+,
+"Pricing Rules": "मूल्य निर्धारण नियम"
+,
+"Configure": "कॉन्फ़िगर"
+,
+"Analytics": "एनालिटिक्स"
+,
+"Notifications": "सूचनाएं"
+,
+"Managers": "प्रबंधकों"
+,
+"Search": "खोज"
+,
+"Recipient's username": "प्राप्तकर्ता का उपयोगकर्ता नाम"
+,
+"Add Route": "मार्ग जोड़ें"
+,
+"Welcome": "स्वागत"
+,
+"Royo": "रोयो"
+,
+"Powered by": "द्वारा संचालित"
+,
+"Dispatch. Fleet Management and Last Mile Delivery solution.": "प्रेषण। फ्लीट मैनेजमेंट और लास्ट माइल डिलीवरी सॉल्यूशन।"
+,
+"Apps": "ऐप्स"
+,
+"Open All": "सभी खुले"
+,
+"Agents": "एजेंटों"
+,
+"Online": "ऑनलाइन"
+,
+"success": "सफलता"
+,
+"error": "गलती"
+,
+"Your Dispatcher verification code is": "आपका डिस्पैचर सत्यापन कोड है"
+,
+"Your account not approved yet. Please contact administration": "आपका खाता अभी तक स्वीकृत नहीं हुआ है। कृपया प्रशासन से संपर्क करें"
+,
+"User not found": "उपयोगकर्ता नहीं मिला"
+,
+"Please enter a valid OTP": "कृपया एक मान्य ओटीपी दर्ज करें"
+,
+"Your otp has been expired. Please try again.": "आपका ओटीपी समाप्त हो गया है। कृपया पुन: प्रयास करें।"
+,
+"Successfully logged out": "सफलतापूर्वक लॉग आउट किया गया"
+,
+"Your account created successfully. Please login": "आपका खाता सफलतापूर्वक बनाया गया। कृपया लॉगिन करें"
+,
+"Status updated Successfully": "स्थिति सफलतापूर्वक अपडेट की गई"
+,
+"Profile Updated Successfully": "प्रोफाइल को सफलतापूर्वक अपडेट किया गया"
+,
+"Sorry Something Went Wrong": "क्षमा करें, कुछ गलत हो गया"
+,
+"Agent created Successfully!": "एजेंट सफलतापूर्वक बनाया गया!"
+,
+"Documents Sent Successfully!": "दस्तावेज़ सफलतापूर्वक भेजे गए!"
+,
+"This order has already been accepted": "यह आदेश पहले ही स्वीकार किया जा चुका है"
+,
+"Task Accepted Successfully": "कार्य सफलतापूर्वक स्वीकार किया गया"
+,
+"Task Rejected Successfully": "कार्य सफलतापूर्वक अस्वीकृत"
+,
+"Task Added Successfully": "कार्य सफलतापूर्वक जोड़ा गया"
+,
+"Valid Dispatcher API keys": "मान्य डिस्पैचर एपीआई कुंजियाँ"
+,
+"Feedback has been already submitted": "फ़ीडबैक पहले ही सबमिट किया जा चुका है"
+,
+"Your feedback is submitted": "आपका फ़ीडबैक सबमिट किया गया है"
+,
+"Order Not Found": "आदेश नहीं मिला"
+,
+"Offline": "ऑफलाइन"
+,
+"Tasks": "कार्य"
+,
+"Drivers": "ड्राइवरों"
+,
+"All Drivers": "सभी ड्राइवर"
+,
+"Optimize Route": "मार्ग अनुकूलित करें"
+,
+"Driver starts Day at": "ड्राइवर दिन की शुरुआत करता है"
+,
+"Please enter the driver start time": "कृपया ड्राइवर प्रारंभ समय दर्ज करें"
+,
+"Task Duration(in min)": "कार्य अवधि (मिनट में)"
+,
+"Please enter the task duration": "कृपया कार्य अवधि दर्ज करें"
+,
+"Driver Break Start time": "ड्राइवर ब्रेक प्रारंभ समय"
+,
+"Please enter the driver break start time": "कृपया ड्राइवर ब्रेक प्रारंभ समय दर्ज करें"
+,
+"Driver Start Location": "चालक प्रारंभ स्थान"
+,
+"Select Location": "स्थान चुनें"
+,
+"Current location": "वर्तमान स्थान"
+,
+"Select Task": "कार्य का चयन करें"
+,
+"Address": "पता"
+,
+"Submit": "प्रस्तुत करना"
+,
+"Name": "नाम"
+,
+"Email": "ईमेल"
+,
+"Phone number": "फ़ोन नंबर"
+,
+"Action": "गतिविधि"
+,
+"Status": "दर्जा"
+,
+"Add Customer": "ग्राहक जोड़ें"
+,
+"Organization details": "संगठन का विवरण"
+,
+"View and edit your organization's profile details.": "अपने संगठन का प्रोफ़ाइल विवरण देखें और संपादित करें।"
+,
+"Upload Logo": "लोगो अपलोड करें"
+,
+"Short Code": "लघु कूट संख्या"
+,
+"NAME": "नाम"
+,
+"EMAIL": "ईमेल"
+,
+"Enter email address": "ईमेल पता दर्ज करें"
+,
+"CONTACT NUMBER": "संपर्क संख्या"
+,
+"COMPANY ADDRESS": "कंपनी का पता"
+,
+"COMPANY NAME": "कंपनी का नाम"
+,
+"Enter company address": "कंपनी का पता दर्ज करें"
+,
+"Enter company name": "कंपनी का नाम दर्ज करें"
+,
+"COUNTRY": "देश"
+,
+"Country": "देश"
+,
+"TIMEZONE": "समय क्षेत्र"
+,
+"Timezone": "समय क्षेत्र"
+,
+"Change Password": "पासवर्ड बदलें"
+,
+"Old Password": "पुराना पासवर्ड"
+,
+"Enter your old password": "अपना पुराना पासवर्ड दर्ज करें"
+,
+"New Password": "नया पासवर्ड"
+,
+"Enter your password": "अपना पासवर्ड डालें"
+,
+"Confirm Password": "पासवर्ड की पुष्टि कीजिये"
+,
+"Enter your confirm password": "अपना पुष्टिकरण पासवर्ड दर्ज करें"
+,
+"Update": "अद्यतन"
+,
+"Theme": "थीम"
+,
+"Choose between light and dark theme, for the platform.": "प्लेटफॉर्म के लिए लाइट और डार्क थीम में से चुनें।"
+,
+"Light theme": "लाइट थीम"
+,
+"Dark theme": "डार्क थीम"
+,
+"Saved Address selection": "सहेजा गया पता चयन"
+,
+"Manage how you want to show saved addresses while creating routes.": "प्रबंधित करें कि मार्ग बनाते समय आप सहेजे गए पते कैसे दिखाना चाहते हैं।"
+,
+"Shared saved addresses for all customers": "सभी ग्राहकों के लिए साझा सहेजे गए पते"
+,
+"Saved addresses linked to each customer": "प्रत्येक ग्राहक से जुड़े सहेजे गए पते"
+,
+"CMS": "मुख्यमंत्रियों"
+,
+"View and update the Terms and Privacy content for the Agent App.": "एजेंट ऐप के लिए नियम और गोपनीयता सामग्री देखें और अपडेट करें।"
+,
+"Terms and Conditions": "नियम और शर्तें"
+,
+"Privacy Policy": "गोपनीयता नीति"
+,
+"Nomenclature & Localisation": "नामकरण और स्थानीयकरण"
+,
+"View and update the naming, currency and distance units.": "नामकरण, मुद्रा और दूरी इकाइयों को देखें और अपडेट करें।"
+,
+"AGENT NAME": "एजेंट का नाम"
+,
+"CURRENCY": "मुद्रा"
+,
+"Driver": "चालक"
+,
+"Unit": "इकाई"
+,
+"Metric": "मीट्रिक"
+,
+"Date & Time": "दिनांक समय"
+,
+"View and update the date & time format.": "दिनांक और समय प्रारूप देखें और अपडेट करें।"
+,
+"DATE FORMAT": "तारिख का प्रारूप"
+,
+"TIME FORMAT": "समय प्रारूप"
+,
+"hours": "घंटे"
+,
+"Task Completion Proofs": "कार्य पूर्णता प्रमाण"
+,
+"Type": "टाइप"
+,
+"Enable": "सक्षम करना"
+,
+"Required": "आवश्यक"
+,
+"Notes": "टिप्पणियाँ"
+,
+"Image": "छवि"
+,
+"Signature": "हस्ताक्षर"
+,
+"Barcode": "बारकोड"
+,
+"Team": "टीम"
+,
+"Add Team": "टीम जोड़ें"
+,
+"Team Name": "टीम का नाम"
+,
+"Location Accuracy": "स्थान सटीकता"
+,
+"Location Frequency": "स्थान आवृत्ति"
+,
+"Team Strength": "टीम की ताकत"
+,
+"Tags": "टैग"
+,
+"Edit Report": "रिपोर्ट संपादित करें"
+,
+"Export Report": "निर्यात रिपोर्ट"
+,
+"Go": "जाओ"
+,
+"Clear": "साफ़"
+,
+"Add": "जोड़ें"
+,
+"Pay": "भुगतान करना"
+,
+"Receive": "प्राप्त करना"
+,
+"Uid": "यूआईडी"
+,
+"Phone": "फ़ोन"
+,
+"Vehicle": "वाहन"
+,
+"Cash Collected": "नकद एकत्रित"
+,
+"Order Earning": "आदेश कमाई"
+,
+"Total Paid to Driver": "चालक को कुल भुगतान"
+,
+"Total Receive from Driver": "चालक से कुल प्राप्त"
+,
+"Final Balance": "अंतिम राशि"
+,
+"Is Approved?": "ये स्वीकृत है?"
+,
+"Geo-fences": "भू-बाड़"
+,
+"Add Geo-fence": "भू-बाड़ जोड़ें"
+,
+"Acknowledgement Type": "पावती प्रकार"
+,
+"Agent can either acknowledge the receipt of the task or accept/decline a Task based on your selection below.": "एजेंट या तो कार्य की प्राप्ति को स्वीकार कर सकता है या नीचे आपके चयन के आधार पर कार्य को स्वीकार/अस्वीकार कर सकता है।"
+,
+"Acknowledge": "स्वीकार करना"
+,
+"Accept": "स्वीकार करना"
+,
+"Reject": "अस्वीकार"
+,
+"None": "कोई भी नहीं"
+,
+"Enable this option to automatically assign Task to your agent.": "अपने एजेंट को कार्य स्वचालित रूप से असाइन करने के लिए इस विकल्प को सक्षम करें।"
+,
+"No. Of Retries": "पुनर्प्रयासों की संख्या"
+,
+"Start Allocation Before": "पहले आवंटन शुरू करें"
+,
+"In Min": "मिनी में"
+,
+"Request Expires": "अनुरोध समाप्त"
+,
+"In Sec": "सेकंड में"
+,
+"Maximum Task Per Person": "प्रति व्यक्ति अधिकतम कार्य"
+,
+"Maximum Radius": "अधिकतम त्रिज्या"
+,
+"Maximum Cash At Hand Per Person": "प्रति व्यक्ति हाथ में अधिकतम नकद"
+,
+"Select a method to allocate task": "कार्य आवंटित करने के लिए एक विधि का चयन करें"
+,
+"One By One": "एक के बाद एक"
+,
+"Allocation will done one by one": "एक-एक करके होगा आवंटन"
+,
+"Send to all": "सभी को भेजो"
+,
+"Allocation request will send to all": "आवंटन अनुरोध सभी को भेज दिया जाएगा"
+,
+"Batch Wise": "बैच वार"
+,
+"Allocation request will done batch wise": "आवंटन अनुरोध बैच वार किया जाएगा"
+,
+"Round Robin": "राउंड रोबिन"
+,
+"Allocation request will done in round robin format": "आबंटन अनुरोध राउंड रॉबिन प्रारूप में किया जाएगा"
+,
+"Start Radius": "त्रिज्या प्रारंभ करें"
+,
+"Maximum Batch Size": "अधिकतम बैच आकार"
+,
+"Add Pricing Rules": "मूल्य निर्धारण नियम जोड़ें"
+,
+"Base Price": "आधार मूल्य"
+,
+"Base Duration": "आधार अवधि"
+,
+"Base Distance": "आधार दूरी"
+,
+"Base Waiting": "बेस वेटिंग"
+,
+"Map Configuration": "मानचित्र विन्यास"
+,
+"View and update your Map type and it's API key.": "अपना नक्शा प्रकार और उसकी एपीआई कुंजी देखें और अपडेट करें।"
+,
+"MAP TYPE": "नक्शा प्रकार"
+,
+"API Key": "एपीआई कुंजी"
+,
+"SMS": "एसएमएस"
+,
+"View and update your SMS Gateway and it's API keys.": "अपना एसएमएस गेटवे और उसकी एपीआई कुंजियां देखें और अपडेट करें।"
+,
+"CURRENT SELECTION": "मौजूदा चुनाव"
+,
+"Number": "संख्या"
+,
+"Account SID": "खाता सिड"
+,
+"Account Sid": "खाता सिड"
+,
+"Auth Token": "प्रामाणिक टोकन"
+,
+"View and update your SMTP credentials.": "अपने SMTP क्रेडेंशियल देखें और अपडेट करें।"
+,
+"Host": "मेज़बान"
+,
+"Port": "पत्तन"
+,
+"Encryption": "कूटलेखन"
+,
+"User-Name": "उपयोगकर्ता नाम"
+,
+"Password": "पासवर्ड"
+,
+"Form Address": "फॉर्म का पता"
+,
+"Personal Access Token": "व्यक्तिगत पहुंच टोकन"
+,
+"View and Generate API keys.": "API कुंजियां देखें और जेनरेट करें."
+,
+"Generate Key": "कुंजी उत्पन्न करें"
+,
+"Custom Domain": "कस्टम डोमेन"
+,
+"View and update your Domain.": "अपना डोमेन देखें और अपडेट करें।"
+,
+"Make sure you already pointed to IP": "सुनिश्चित करें कि आपने पहले ही आईपी की ओर इशारा कर दिया है"
+,
+"from your domain": "आपके डोमेन से"
+,
+"View and update your Sub Domain.": "अपना उप डोमेन देखें और अपडेट करें।"
+,
+"Sub Domain": "उप डोमेन"
+,
+"FCM Server Key": "एफसीएम सर्वर कुंजी"
+,
+"View and Update FCM key": "FCM कुंजी देखें और अपडेट करें"
+,
+"FCM Key": "एफसीएम कुंजी"
+,
+"Choose Email paid plan to whitelable 'From email address' and 'Sender Name' in the Email sent out from your account.": "अपने खाते से भेजे गए ईमेल में 'ईमेल पते से' और 'प्रेषक का नाम' श्वेत करने योग्य ईमेल भुगतान योजना चुनें।"
+,
+"Select Plan": "प्लान का चयन करें"
+,
+"Free": "मुक्त"
+,
+"Paid": "भुगतान किया गया"
+,
+"PREVIEW": "पूर्व दर्शन"
+,
+"Your message here": "आपका सन्देश यहां"
+,
+"Platform Earning": "प्लेटफार्म कमाई"
+,
+"Agents's Earning": "एजेंटों की कमाई"
+,
+"Orders": "आदेश"
+,
+"Today": "आज"
+,
+"Weekly": "साप्ताहिक"
+,
+"Monthly": "महीने के"
+,
+"Cash at hand": "हाथ में नकद"
+,
+"Phone Number": "फ़ोन नंबर"
+,
+"Member Since": "से सदस्ये"
+,
+"Total Spent": "कुल खर्च किया"
+,
+"Total Orders": "कुल आदेश"
+,
+"Send SMS's and emails based on each trigger and customize the content by clicking on the edit icon.": "प्रत्येक ट्रिगर के आधार पर एसएमएस और ईमेल भेजें और संपादन आइकन पर क्लिक करके सामग्री को अनुकूलित करें।"
+,
+"Customer": "ग्राहक"
+,
+"Recipient": "प्राप्तकर्ता"
+,
+"Events": "आयोजन"
+,
+"Add Manager": "प्रबंधक जोड़ें"
+,
+"Pending Assignment": "लंबित असाइनमेंट"
+,
+"Active": "सक्रिय"
+,
+"History": "इतिहास"
+,
+"Failed": "असफल"
+,
+"Assign": "सौंपना"
+,
+"Change Date": "बदलाव दिनांक"
+,
+"Time": "समय"
+,
+"Phone.No": "फोन नंबर"
+,
+"Due Time": "निश्चित समय"
+,
+"Tracking URL": "ट्रैकिंग यूआरएल"
+,
+"Route Proofs": "मार्ग प्रमाण"
+,
+"Pricing": "मूल्य निर्धारण"
+,
+"Track": "संकरा रास्ता"
+,
+"Short Name": "संक्षिप्त नाम"
+,
+"Post Code": "पोस्ट कोड"
+,
+"Add More Address": "अधिक पता जोड़ें"
+,
+"Edit Customer": "ग्राहक संपादित करें"
+,
+"Ok": "ठीक"
+,
+"Tag": "उपनाम"
+,
+"Edit Team": "टीम संपादित करें"
+,
+"Profile Pic": "प्रोफाइल चित्र"
+,
+"TYPE": "प्रकार"
+,
+"Employee": "कर्मचारी"
+,
+"Freelancer": "फ्रीलांसर"
+,
+"ASSIGN TEAM": "टीम असाइन करें"
+,
+"TRANSPORT ICON": "परिवहन प्रकार"
+,
+"TRANSPORT DETAILS": "परिवहन विवरण"
+,
+"Year, Make, Model": "वर्ष, बनाओ, मॉडल"
+,
+"UID": "यूआईडी"
+,
+"LICENCE PLATE": "लाइसेंस प्लेट"
+,
+"COLOR": "रंग"
+,
+"Color": "रंग"
+,
+"Receive Money": "धन प्राप्त करें"
+,
+"Select": "चुनना"
+,
+"Amount": "राशि"
+,
+"Back": "पीछे"
+,
+"Edit Mode": "संपादन मोड"
+,
+"Add Geofence": "जियोफेंस जोड़ें"
+,
+"Description (Optional)": "विवरण (वैकल्पिक)"
+,
+"All": "सभी"
+,
+"Select All": "सभी का चयन करे"
+,
+"Show All": "सब दिखाएं"
+,
+"Cancel": "रद्द करना"
+,
+"Save": "बचाना"
+,
+"Add Pricing Rule": "मूल्य निर्धारण नियम जोड़ें"
+,
+"Pricing Edit": "मूल्य निर्धारण संपादित करें"
+,
+"Select Geo Fence": "भू बाड़ का चयन करें"
+,
+"Select Team": "टीम का चयन"
+,
+"Select Team Tag": "टीम टैग चुनें"
+,
+"Select Driver Tag": "ड्राइवर टैग का चयन करें"
+,
+"Duration Price(per minute)": "अवधि मूल्य (प्रति मिनट)"
+,
+"Waiting Price": "वेटिंग प्राइस"
+,
+"Distance Fee": "दूरी शुल्क"
+,
+"Cancel Fee": "शुल्क रद्द करें"
+,
+"Employee Commission Percentage": "कर्मचारी आयोग प्रतिशत"
+,
+"Employee Commission Fixed": "कर्मचारी आयोग फिक्स्ड"
+,
+"Freelancer Commission Percentage": "फ्रीलांसर कमीशन प्रतिशत"
+,
+"Freelancer Commission Fixed": "फ्रीलांसर कमीशन फिक्स्ड"
+,
+"Update Manager": "उन्न्त प्रबंधक"
+,
+"Create Manager": "प्रबंधक बनाएं"
+,
+"PASSWORD": "पासवर्ड"
+,
+"Enter new password(if you want to update)": "नया पासवर्ड दर्ज करें (यदि आप अपडेट करना चाहते हैं)"
+,
+"Enter password": "पास वर्ड दर्ज करें"
+,
+"Team Access": "टीम एक्सेस"
+,
+"Selected Teams": "चयनित टीमें"
+,
+"All Teams": "सभी दल"
+,
+"Inactive": "निष्क्रिय"
+,
+"Permission Name": "अनुमति का नाम"
+,
+"Now": "अब"
+,
+"Schedule": "अनुसूची"
+,
+"Please search a customer or add a customer": "कृपया एक ग्राहक खोजें या एक ग्राहक जोड़ें"
+,
+"New Customer": "नए ग्राहक"
+,
+"Date Time": "दिनांक और समय"
+,
+"Previous": "पिछला"
+,
+"Duration (In Min)": "अवधि (मिनट में)"
+,
+"Please select a address or create new": "कृपया कोई पता चुनें या नया बनाएं"
+,
+"Location": "स्थान"
+,
+"Task Barcode": "टास्क बारकोड"
+,
+"Quantity": "मात्रा"
+,
+"Task Barcode is required for pickup": "पिकअप के लिए टास्क बारकोड आवश्यक है"
+,
+"Task Barcode is required for drop": "ड्रॉप के लिए टास्क बारकोड आवश्यक है"
+,
+"Task Barcode is required for appointment": "नियुक्ति के लिए टास्क बारकोड आवश्यक है"
+,
+"Add Sub Task": "उप कार्य जोड़ें"
+,
+"Meta Data": "मेटा डेटा"
+,
+"Upload Image": "तस्विर अपलोड करना"
+,
+"Call Back URL": "कॉल बैक यूआरएल"
+,
+"Allocation": "आवंटन"
+,
+"Cash to be collected": "नकद एकत्र किया जाना है"
+,
+"Please select atlest one tag for driver and agent": "कृपया ड्राइवर और एजेंट के लिए कम से कम एक टैग चुनें"
+,
+"Team Tag": "दल टैग"
+,
+"Select tag...": "टैग चुनें..."
+,
+"Driver Tag": "ड्राइवर टैग"
+,
+"Search Customer": "ग्राहक खोजें"
+,
+"Task Description": "कार्य विवरण"
+,
+"Route": "रास्ता"
+,
+"Manager": "प्रबंधक"
+,
+"Enter mobile number": "मोबाइल नंबर दर्ज करें"
+,
+"Edit Message": "संदेश संपादित करें"
+,
+"Message": "संदेश"
+,
+"driver_name": "चालक का नाम"
+,
+"vehicle_model": "वाहन मॉडल"
+,
+"plate_number": "थाली संख्या"
+,
+"tracking_link": "ट्रैकिंग_लिंक"
+,
+"feedback_url": "फीडबैक_यूआरएल"
+,
+"Edit Route": "मार्ग संपादित करें"
+,
+"Pickup Task": "पिकअप कार्य"
+,
+"Drop Off Task": "ड्रॉप ऑफ टास्क"
+,
+"Appointment": "नियुक्ति"
+,
+"Address Short Name": "पता संक्षिप्त नाम"
+,
+"PostCode": "पोस्टकोड"
+,
+"Recipient Phone": "प्राप्तकर्ता फोन"
+,
+"Recipient Email": "प्राप्तकर्ता का ई - मेल"
+,
+"Net Quantity": "शुद्ध मात्रा"
+,
+"Unassigned": "सौंपे नहीं गए"
+,
+"Manual": "नियमावली"
+,
+"PostsCode": "डाक कोड"
+,
+"contact-img": "संपर्क-आईएमजी"
+,
+"Track Url": "ट्रैक Url"
+,
+"Copied": "कॉपी किया गया"
+,
+"Rejections": "अस्वीकृति"
+,
+"No rejection found": "कोई अस्वीकृति नहीं मिली"
+,
+"Task List": "कार्य सूची"
+,
+"Are you sure?": "क्या आपको यकीन है?"
+,
+"Pickup": "उठाना"
+,
+"Drop": "बूंद"
+,
+"John Doe": "जॉन डो"
+,
+"View OTP after Logging in the Driver App": "ड्राइवर ऐप में लॉग इन करने के बाद ओटीपी देखें"
+,
+"Base Duration (In Minutes)": "आधार अवधि (मिनटों में)"
+,
+"Total Customers": "कुल ग्राहक"
+,
+"In-Active": "इन-एक्टिव"
+,
+"Export": "निर्यात करना"
+,
+"Optimize": "अनुकूलन"
+,
+"Unassigned Tasks": "असाइन नहीं किए गए कार्य"
+,
+"miles": "मील की दूरी पर"
+,
+"pickup": "उठाना"
+,
+"Dropoff": "बाहर निकलना"
+,
+"Assigned": "सौंपा गया"
+,
+"district": "जिला Seoni"
+,
+"Showing 1 to 10 of 21 entries": "21 में से 1 से 10 प्रविष्टियाँ दिखा रहा हूँ"
+,
+"Search Customers": "ग्राहक खोजें"
+,
+"House/Apartment/Flat number": "मकान/अपार्टमेंट/फ्लैट नंबर"
+,
+"Short name": "संक्षिप्त नाम"
+,
+"Active Orders": "सक्रिय आदेश"
+,
+"Active Customer": "सक्रिय ग्राहक"
+,
+"Active Agents": "सक्रिय एजेंट"
+,
+"InActive": "निष्क्रिय"
+,
+"ID Customer": "आईडी ग्राहक"
+,
+"URL Tracking": "यूआरएल ट्रैकिंग"
+,
+"Updated At": "अद्यतन किया गया"
+,
+"No Proof Found": "कोई सबूत नहीं मिला"
+,
+"Task Details": "कार्य विवरण"
+,
+"Pickup task": "पिकअप कार्य"
+,
+"Drop Off task": "ड्रॉप ऑफ टास्क"
+,
+"Duration Price": "अवधि मूल्य"
+,
+"Agent Type": "एजेंट प्रकार"
+,
+"Distance Price": "दूरी मूल्य"
+,
+"Actual Distance": "वास्तविक दूरी"
+,
+"Billing Distance": "बिलिंग दूरी"
+,
+"Distance Cost": "दूरी की लागत"
+,
+"Actual Duration": "वास्तविक अवधि"
+,
+"Billing Duration": "बिलिंग अवधि"
+,
+"Duration Cost": "अवधि लागत"
+,
+"Order Cost": "आदेश लागत"
+,
+"Driver Cost": "चालक लागत"
+,
+"Employee Commission %": "कर्मचारी आयोग%"
+,
+"Freelancer Commission%": "फ्रीलांसर कमीशन%"
+,
+"Payment Options": "भुगतान विकल्प"
+,
+"Payout Requests": "भुगतान अनुरोध"
+,
+"light theme": "हल्का विषय"
+,
+"Next": "अगला"
+,
+"Customer Support": "ग्राहक सहेयता"
+,
+"View and update your Customer Support, it's API key and Application ID": "अपना ग्राहक समर्थन देखें और अपडेट करें, यह एपीआई कुंजी और एप्लिकेशन आईडी है"
+,
+"please enter key": "कृपया कुंजी दर्ज करें"
+,
+"Please enter key": "कृपया कुंजी दर्ज करें"
+,
+"Drivers start Day at": "ड्राइवर दिन शुरू करते हैं"
+,
+"AM": "पूर्वाह्न"
+,
+"PM": "बजे"
+,
+"Driver break end time": "ड्राइवर ब्रेक समाप्ति समय"
+,
+"Driver break start time": "ड्राइवर ब्रेक प्रारंभ समय"
+,
+"Driver start location": "चालक प्रारंभ स्थान"
+,
+"Contact number": "संपर्क संख्या"
+,
+"Successful": "सफल"
+,
+"Agent Started": "एजेंट शुरू हुआ"
+,
+"Agent Arrived": "एजेंट आ गया"
+,
+"Pickup Notifications": "पिकअप सूचनाएं"
+,
+"Drop-off Notifications": "ड्रॉप-ऑफ सूचनाएं"
+,
+"Appointment Notifications": "नियुक्ति अधिसूचना"
+,
+"Customer Delivery OTP": "ग्राहक वितरण ओटीपी"
+,
+"net earning": "शुद्ध कमाई"
+,
+"number of order": "आदेश की संख्या"
+,
+"earning": "कमाई"
+,
+"Order": "आदेश"
+,
+"View and Update FCM key.": "FCM कुंजी देखें और अपडेट करें।"
+,
+"Referred By Amount": "राशि द्वारा संदर्भित"
+,
+"DRIVER REGISTRATION DOCUMENTS": "चालक पंजीकरण दस्तावेज"
+,
+"Driver Registration Phone Verification": "चालक पंजीकरण फोन सत्यापन"
+,
+"Edit Order By Driver": "ड्राइवर द्वारा आदेश संपादित करें"
+,
+"Refer And Earn": "रेफर करें और कमाएं"
+,
+"Referred To Amount": "राशि के लिए संदर्भित"
+,
+"Cancel Order By Driver": "चालक द्वारा आदेश रद्द करें"
+,
+"add": "जोड़ें"
+,
+"Agent deleted successfully!": "एजेंट सफलतापूर्वक हटा दिया गया!"
+,
+"Search Agent": "खोज एजेंट"
+,
+"agent ID": "एजेंट आईडी"
+,
+"awaiting approval": "मंजूरी का इंतजार"
+,
+"Blocked": "अवरोधित"
+,
+"Filter by tags": "टैग द्वारा फ़िल्टर करें"
+,
+"Filter by location": "स्थान के अनुसार फ़िल्टर करें"
+,
+"Employees": "कर्मचारी"
+,
+"Approved Agents": "स्वीकृत एजेंट"
+,
+"Unapproved Agents": "अस्वीकृत एजेंट"
+,
+"Edit": "संपादन करना"
+,
+"Customer ID": "ग्राहक आईडी, ग्राहक पहचान"
+,
+"House / Apartment/ Flat number": "मकान/अपार्टमेंट/फ्लैट नंबर"
+,
+"House/Apartment/Flat no": "मकान/अपार्टमेंट/फ्लैट नं"
+,
+"Please enter task description": "कृपया कार्य विवरण दर्ज करें"
+,
+"Busy": "व्यस्त"
+,
+"Free": "मुक्त"
+,
+"Search Routes": "खोज मार्ग"
+,
+"Driver not assigned yet": "ड्राइवर को अभी तक असाइन नहीं किया गया"
+,
+"Call": "बुलाना"
+,
+"Drop-Off": "बाहर निकलना"
+,
+"Total Order Value": "कुल आदेश मूल्य"
+,
+"Pending Payout Value": "लंबित भुगतान मूल्य"
+,
+"Completed Payout Value": "पूर्ण भुगतान मूल्य"
+,
+"Pending": "लंबित"
+,
+"Completed": "पूरा हुआ"
+,
+"Payout": "भुगतान"
+,
+"Date": "दिनांक"
+,
+"Payout Type": "भुगतान प्रकार"
+,
+"Bank Detials": "बैंक विवरण"
+,
+"Are you sure you want to payout": "क्या आप वाकई पेआउट करना चाहते हैं"
+,
+"Continue": "जारी रखना"
+,
+"Are you sure you want to payout for selected requests?": "क्या आप वाकई चयनित अनुरोधों के लिए भुगतान करना चाहते हैं?"
+,
+"Account Holder Name": "खाता धारक का नाम"
+,
+"Bank Account Number": "बैंक खाता संख्या"
+,
+"IFSC Code": "आईएफएससी कोड"
+,
+"Pay Details": "वेतन विवरण"
+,
+"Favicon": "फ़ेविकॉन"
+,
+"Delivery OTP": "डिलीवरी ओटीपी"
+,
+"Agent ID": "एजेंट आईडी"
+,
+"Awaiting Approval": "मंजूरी का इंतजार"
+,
+"Total Agents": "कुल एजेंट"
+,
+"Approved At": "स्वीकृत"
+,
+"Face Proof": "फेस प्रूफ"
+,
+"Total Paid to Agent": "एजेंट को कुल भुगतान"
+,
+"Total Receive from Agent": "एजेंट से कुल प्राप्ति"
+,
+"Live OTP": "लाइव ओटीपी"
+,
+"Drag and drop a file or click": "किसी फ़ाइल को खींचें और छोड़ें या क्लिक करें"
+,
+"Requested At": "अनुरोध किया गया"
+,
+"for": "के लिये"
+,
+"Stripe": "पट्टी"
+,
+"Sandbox": "सैंडबॉक्स"
+,
+"Secret Key": "गुप्त कुंजी"
+,
+"Publishable Key": "प्रकाशित करने योग्य कुंजी"
+,
+"Payout Options": "भुगतान विकल्प"
+,
+"Off the Platform": "मंच से बाहर"
+,
+"Bank Account M (India)": "बैंक खाता एम (भारत)"
+,
+"Show entries": "प्रविष्टियां दिखाएं"
+,
+"Search: ": "खोज: "
+,
+"Sub domain": "उप डोमेन"
+,
+"API ACCESS TOKEN": "एपीआई एक्सेस टोकन"
+,
+"DRIVER REGISTRATION DOCUMENTS": "चालक पंजीकरण दस्तावेज"
+,
+"Driver Registration Documents": "चालक पंजीकरण दस्तावेज"
+,
+"Required?": "आवश्यक?"
+,
+"Upload favicon": "फ़ेविकॉन अपलोड करें"
+,
+"Razorpay": "रेज़रपे"
+,
+"Application ID": "आवेदन पहचान पत्र"
+,
+"Please enter application ID": "कृपया आवेदन आईडी दर्ज करें"
+,
+"Imperial": "शाही"
+,
+"Level 1": "स्तर 1"
+,
+"Level 2": "लेवल 2"
+,
+"Level 3": "स्तर 3"
+,
+"1 Minute": "1 मिनट"
+,
+"5 Minutes": "5 मिनट"
+,
+"15 Minutes": "15 मिनट"
+,
+"Edit Geofence": "जियोफेंस संपादित करें"
+,
+"Result not found.": "परिणाम नहीं मिला।"
+,
+"Amount is greater than agent available funds": "राशि एजेंट उपलब्ध धन से अधिक है"
+,
+"Export CSV": "निर्यात सीएसवी"
+,
+"Wallet has been": "बटुआ किया गया है"
+,
+"Credited": "आकलित"
+,
+"by transaction reference": "लेन-देन संदर्भ द्वारा"
+,
+"Pricing rule added successfully": "मूल्य निर्धारण नियम सफलतापूर्वक जोड़ा गया"
+,
+"Pricing rule updated successfully": "मूल्य निर्धारण नियम सफलतापूर्वक अपडेट किया गया"
+,
+"Pricing rule deleted successfully": "मूल्य निर्धारण नियम सफलतापूर्वक हटाया गया"
+
+}

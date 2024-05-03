@@ -1,0 +1,33 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "ROYO API",
+        "version": "0.1"
+    },
+    "paths": {
+        "/v1/user/account/validate": {
+            "get": {
+                "summary": "validates an account",
+                "operationId": "accountValidate",
+                "parameters": [
+                    {
+                        "name": "email",
+                        "in": "query",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Validation Response"
+                    }
+                }
+            }
+        }
+    },
+    "security": [
+        []
+    ]
+}

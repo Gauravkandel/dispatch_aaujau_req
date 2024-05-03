@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>ic_notification</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_notification">
+            <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+            <g id="Group" transform="translate(6.000000, 7.000000)">
+                <path d="M10,1.5 C7.92893219,1.5 6.05393219,2.33946609 4.69669914,3.69669914 C3.33946609,5.05393219 2.5,6.92893219 2.5,9 L2.5,15.5162999 L17.5,15.5162999 L17.5,9 C17.5,6.92893219 16.6605339,5.05393219 15.3033009,3.69669914 C13.9460678,2.33946609 12.0710678,1.5 10,1.5 Z" id="Rectangle" stroke="#B2B2B2"></path>
+                <rect id="Rectangle" fill="#B2B2B2" x="0" y="15" width="20" height="1" rx="0.5"></rect>
+                <rect id="Rectangle-Copy" fill="#B2B2B2" x="9.5" y="0" width="1" height="2" rx="0.5"></rect>
+                <path d="M10,15 L9,15.5 L9.5,18 L10,18 C10.2761424,18 10.5261424,17.8880712 10.7071068,17.7071068 C10.8880712,17.5261424 11,17.2761424 11,17 L11,16 C11,15.7238576 10.8880712,15.4738576 10.7071068,15.2928932 C10.5261424,15.1119288 10.2761424,15 10,15 Z" id="Rectangle-Copy-2" stroke="#B2B2B2" transform="translate(10.000000, 16.500000) rotate(-270.000000) translate(-10.000000, -16.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
